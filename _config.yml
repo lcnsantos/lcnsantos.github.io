@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Luis Santos/Website"
+title                    : "Dr. Luis Santos Website"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Luis Santos"
+  name             : "Dr. Luis Santos"
   avatar           : "profile.png"
   bio              : "Physicist and Data Scientist/Machine Learning enthusiastic"
   location         : "Location"
@@ -88,7 +88,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com.br/citations?user=KorU-HsAAAAJ&hl=pt-BR"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Luis-Cesar-Santos"
   uri              :
   bitbucket        :
   codepen          :
@@ -109,11 +109,11 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "LuisSantosBR"
+  twitter          : "https://twitter.com/LuisSantosBR"
   vine             :
   weibo            :
   xing             :
-  youtube          :"https://www.youtube.com/channel/UCMNaitxD5XVucPFntCOke2w"
+  youtube          : "https://www.youtube.com/channel/UCMNaitxD5XVucPFntCOke2w"
   wikipedia        :
 
 
