@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Dr. Luis Santos/Website"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -109,11 +109,11 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "LuisSantosBR"
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          :"https://www.youtube.com/channel/UCMNaitxD5XVucPFntCOke2w"
   wikipedia        :
 
 
