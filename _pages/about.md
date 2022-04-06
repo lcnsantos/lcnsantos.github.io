@@ -1,24 +1,18 @@
 ---
 permalink: /
-title: "Wellcome to my website!"
-excerpt: "About me"
+title: "About Me"
+excerpt: "About me2"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Hello world!
 
 
 
 
 
-
-Getting started 
-======
-
-
-Site-wide configuration
-------
 
 
 
