@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<h1>Peer-Reviewed Journal Publications<h1>
+<h1>Peer-Reviewed Journal Publications</h1>
 
 Bezerra VB, Lobo IP, Morais Graça JP and Santos LCN (2019), "Effects of quantum corrections on the criticality and efficiency of black holes surrounded by a perfect fluid", Eur. Phys. J. C. Vol. 79(11), pp. 949.
 
