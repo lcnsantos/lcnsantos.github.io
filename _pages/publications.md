@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 Bezerra VB, Lobo IP, Morais Graça JP and Santos LCN (2019), "Effects of quantum corrections on the criticality and efficiency of black holes surrounded by a perfect fluid", Eur. Phys. J. C. Vol. 79(11), pp. 949.
+
 da Silva FM, Santos LCN and Barros CC (2021), "Rapidly rotating compact stars in Rastall’s gravity", Class. Quant. Grav.. Vol. 38(16), pp. 165011.
 
 Lobo IP, Bezerra VB, Morais Graça JP, Santos LCN and Ronco M (2020), "Effects of Planck-scale-modified dispersion relations on the thermodynamics of charged black holes", Phys. Rev. D. Vol. 101(8), pp. 084004.
