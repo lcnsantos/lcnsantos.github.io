@@ -12,8 +12,8 @@ main:
   - title: "Portfolio"
     url: /portfolio/
 
-  - title: "TEste A"
-    url: /test/  
+  - title: "Preprints in GR/QC"
+    url: /preprints/  
         
   #- title: "Blog Posts"
   #  url: /year-archive/
