@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Preprints in GR/QC"
 permalink: /preprints/
 author_profile: true
 ---
