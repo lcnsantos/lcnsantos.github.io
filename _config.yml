@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Luis Santos Website"
+title                    : "Dr. Luis C. N. Santos Website"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
