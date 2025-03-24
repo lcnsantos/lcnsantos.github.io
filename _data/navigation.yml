@@ -6,12 +6,14 @@ main:
  # - title: "Talks"
  #   url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  #- title: "Teaching"
+  #  url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
-
+  #- title: "Portfolio"
+  #  url: /portfolio/
+  - title: "Contact"
+    url: /contact/
+    
   - title: "Preprints in GR/QC"
     url: /preprints/  
         
