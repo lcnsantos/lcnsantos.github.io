@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+# Welcome to Jekyll! 
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Dr. Luis Santos"
   avatar           : "eu2021.jpg"
-  bio              : "Theoretical Physicist and enthusiastic of emerging technologies, including AI"
-  location         : "Location"
+  bio              : "Theoretical Physicist and Enthusiastic of Emerging Technologies, Including AI"
+  location         : "Brazil - UFSC"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.br/citations?user=KorU-HsAAAAJ&hl=pt-BR"
