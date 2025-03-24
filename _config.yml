@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. Luis Santos"
   avatar           : "eu2021.jpg"
-  bio              : "Physicist and Data Scientist/Machine Learning enthusiastic"
+  bio              : "Theoretical Physicist and enthusiastic of emerging technologies, including AI"
   location         : "Location"
   employer         :
   pubmed           : 
@@ -109,11 +109,11 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "LuisSantosBR"
+  twitter          : #"LuisSantosBR"
   vine             :
   weibo            :
   xing             :
-  youtube          : "channel/UCMNaitxD5XVucPFntCOke2w"
+  youtube          : #"channel/UCMNaitxD5XVucPFntCOke2w"
   wikipedia        :
 
 
