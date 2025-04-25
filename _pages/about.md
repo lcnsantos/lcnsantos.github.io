@@ -13,15 +13,18 @@ Feel free to explore my work and reach out for discussions or collaborations.
 
 # My Favorite Equations Gallery
 
-I've always believed that the language of physics is written in beautiful mathematical equations. Here, I'll share some of my favorite equations that capture the elegance and power of theoretical physics.
+Here, I'll share some of my favorite equations that capture the elegance and power of theoretical physics.
 
 ## Maxwell's Equations: The Harmony of Electromagnetism
 
 Maxwell's equations represent one of the most elegant unifications in physics - the marriage of electricity and magnetism into a single coherent theory. These four equations completely describe classical electromagnetism:
 
 ∇ · E = ρ/ε₀
+
 ∇ · B = 0
+
 ∇ × E = -∂B/∂t
+
 ∇ × B = μ₀J + μ₀ε₀∂E/∂t
 
 What makes these equations particularly beautiful to me is how they embody perfect symmetry and profound physical insights in such a compact form. The first pair describes how electric charges create electric fields and how magnetic fields form closed loops without magnetic monopoles. The second pair elegantly demonstrates how changing magnetic fields create electric fields and how electric currents and changing electric fields create magnetic fields.
