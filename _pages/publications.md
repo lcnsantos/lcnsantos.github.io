@@ -6,12 +6,12 @@ author_profile: true
 ---
 
 <ol>
-  <li><a href="https://doi.org/10.1088/1361-6382/add078" target="_blank">Kiselev black strings: the charged rotating solutions</a><br>
-      <strong>Journal:</strong> Classical and Quantum Gravity<br>
-      <strong>Year:</strong> 2025
-  </li>
   <li><a href="https://doi.org/10.1016/j.aop.2025.170038" target="_blank">Cornell and Coulomb potentials in the double defect spacetime</a><br>
       <strong>Journal:</strong> Annals of Physics<br>
+      <strong>Year:</strong> 2025
+  </li>
+  <li><a href="https://doi.org/10.1088/1361-6382/add078" target="_blank">Kiselev black strings: the charged rotating solutions</a><br>
+      <strong>Journal:</strong> Classical and Quantum Gravity<br>
       <strong>Year:</strong> 2025
   </li>
   <li><a href="https://doi.org/10.1103/PhysRevD.111.064032" target="_blank">Revisiting black holes surrounded by cloud and fluid of strings in general relativity</a><br>
