@@ -10,12 +10,12 @@ author_profile: true
       <strong>JOURNAL:</strong> Annals of Physics<br>
       <strong>Year:</strong> 2025
   </li>
-  <li><a href="https://doi.org/10.1140/epjc/s10052-025-14203-z" target="_blank">Bound and scattering states in a spacetime with dual topological defects: cosmic string and global monopole</a><br>
-      <strong>JOURNAL:</strong> The European Physical Journal C<br>
-      <strong>Year:</strong> 2025
-  </li>
   <li><a href="https://doi.org/10.1088/1361-6382/add078" target="_blank">Kiselev black strings: the charged rotating solutions</a><br>
       <strong>JOURNAL:</strong> Classical and Quantum Gravity<br>
+      <strong>Year:</strong> 2025
+  </li>
+  <li><a href="https://doi.org/10.1140/epjc/s10052-025-14203-z" target="_blank">Bound and scattering states in a spacetime with dual topological defects: cosmic string and global monopole</a><br>
+      <strong>JOURNAL:</strong> The European Physical Journal C<br>
       <strong>Year:</strong> 2025
   </li>
   <li><a href="https://doi.org/10.1103/PhysRevD.111.064032" target="_blank">Revisiting black holes surrounded by cloud and fluid of strings in general relativity</a><br>
