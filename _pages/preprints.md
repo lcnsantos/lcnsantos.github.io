@@ -1874,42 +1874,4 @@ author_profile: true
                 </div>
                 <hr>
             </div>
-            
-            <div>
-                <h3>Dirac Singleton as a Relativistic Field Beyond Standard Model</h3>
-                <div>
-                    <p><i>M. A. Vasiliev</i></p>
-                    <p><b>Published: 2025-05-03</b></p>
-                </div>
-                <div>
-            <p>Categories: hep-th</p>
-                </div>
-                <div>
-                    <p>A new interpretation of Dirac singletons \cite{Dirac:1963ta}, i.e. free conformal fields in $d$ dimensions, as relativistic fields in a $d+1$-dimensional space-time with cosmological constant, that differs from the Flato-Fronsdal dipole construction in $AdS_{d+1}$ \cite{Flato:1986uh}, is proposed. The $d+1$-dimensional field is described at the level of both equations and Lagrangian. It forms an infinite-dimensional representation of the $d+1$-dimensional Lorentz group that relates fields at different space-time points. The associated well-known fact is that singleton cannot be localized at a point in ${d+1}$ dimensions, hence being unobservable via local scattering/radiation phenomena in the Standard Model ($d=3$). On the other hand, that singleton respects ${d+1}$ dimensional relativistic symmetries makes it possible to introduce its interactions with gravity and other relativistic fields in $d+1$ dimensions. It is speculated that the presence of singleton in a four-dimensional field theory with non-zero cosmological constant (dark energy) can be relevant to the dark matter phenomenon and baryon asymmetry generation.</p>
-                </div>
-                <div>
-                    <a href="https://arxiv.org/abs/2505.01915v1" target="_blank">View on arXiv</a>
-                    <a href="http://arxiv.org/pdf/2505.01915v1" target="_blank">PDF</a>
-                </div>
-                <hr>
-            </div>
-            
-            <div>
-                <h3>Lorentzian manifolds equipped with a concircularly semi-symmetric metric   connection</h3>
-                <div>
-                    <p><i>Miroslav D. Maksimović, Milan Lj. Zlatanović, Milica R. Vučurović</i></p>
-                    <p><b>Published: 2025-05-03</b></p>
-                </div>
-                <div>
-            <p>Categories: math.DG</p>
-                </div>
-                <div>
-                    <p>Building upon previous works characterizing GRW space-times using concircular and torse-forming vectors, this paper investigates a Lorentzian manifold equipped with a concircularly semi-symmetric metric connection. We demonstrate that such a manifold reduces to a GRW space-time under specific conditions: when the generator of the observed connection is a unit timelike vector. Also, in that case, the mentioned connection becomes a semi-symmetric metric $P$-connection. The non-zero nature of the three curvature tensors and their corresponding Ricci tensors motivates an exploration of manifold symmetries. In this way, we derive necessary and sufficient conditions for the manifold to be Einstein and we prove that a perfect fluid space-time with a semi-symmetric metric $P$-connection is Ricci pseudo-symmetric manifold of constant type. Furthermore, we show that if this space-time satisfies the Einstein's field equations without the cosmological constant, the strong energy condition is violated.</p>
-                </div>
-                <div>
-                    <a href="https://arxiv.org/abs/2505.01897v1" target="_blank">View on arXiv</a>
-                    <a href="http://arxiv.org/pdf/2505.01897v1" target="_blank">PDF</a>
-                </div>
-                <hr>
-            </div>
             </div>
