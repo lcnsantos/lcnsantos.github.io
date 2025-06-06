@@ -10,6 +10,10 @@ author_profile: true
       <strong>JOURNAL:</strong> Annals of Physics<br>
       <strong>Year:</strong> 2025
   </li>
+  <li><a href="https://doi.org/10.1088/1361-6382/ade192" target="_blank">Strongly Interacting Quark Matter in Massive Quark Stars</a><br>
+      <strong>JOURNAL:</strong> Classical and Quantum Gravity<br>
+      <strong>Year:</strong> 2025
+  </li>
   <li><a href="https://doi.org/10.3390/universe11050152" target="_blank">Black Holes as Gravitational Mirrors</a><br>
       <strong>JOURNAL:</strong> Universe<br>
       <strong>Year:</strong> 2025
