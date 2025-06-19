@@ -14,6 +14,10 @@ author_profile: true
       <strong>JOURNAL:</strong> Classical and Quantum Gravity<br>
       <strong>Year:</strong> 2025
   </li>
+  <li><a href="https://doi.org/10.3390/universe11060193" target="_blank">Charged Scalar Boson in Melvin Universe</a><br>
+      <strong>JOURNAL:</strong> Universe<br>
+      <strong>Year:</strong> 2025
+  </li>
   <li><a href="https://doi.org/10.3390/universe11050152" target="_blank">Black Holes as Gravitational Mirrors</a><br>
       <strong>JOURNAL:</strong> Universe<br>
       <strong>Year:</strong> 2025
