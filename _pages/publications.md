@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 <ol>
+  <li><a href="https://doi.org/10.1016/j.dark.2025.102041" target="_blank">Five dimensional rotating and quintessence black hole and their hypershadows</a><br>
+      <strong>JOURNAL:</strong> Physics of the Dark Universe<br>
+      <strong>Year:</strong> 2025
+  </li>
   <li><a href="https://doi.org/10.1016/j.aop.2025.170038" target="_blank">Cornell and Coulomb potentials in the double defect spacetime</a><br>
       <strong>JOURNAL:</strong> Annals of Physics<br>
       <strong>Year:</strong> 2025
