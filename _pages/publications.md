@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 <ol>
+  <li><a href="https://doi.org/10.1140/epjc/s10052-025-14789-4" target="_blank">The sound of quintessence: analogue Kiselev acoustic black holes</a><br>
+      <strong>JOURNAL:</strong> The European Physical Journal C<br>
+      <strong>Year:</strong> 2025
+  </li>
   <li><a href="https://doi.org/10.1016/j.dark.2025.102041" target="_blank">Five dimensional rotating and quintessence black hole and their hypershadows</a><br>
       <strong>JOURNAL:</strong> Physics of the Dark Universe<br>
       <strong>Year:</strong> 2025
