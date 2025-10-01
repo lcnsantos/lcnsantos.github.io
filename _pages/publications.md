@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 <ol>
+  <li><a href="https://doi.org/10.1140/epjc/s10052-025-14784-9" target="_blank">Constraining the generalized Tolman–Oppenheimer–Volkoff (GTOV) equation with Bayesian analysis</a><br>
+      <strong>JOURNAL:</strong> The European Physical Journal C<br>
+      <strong>Year:</strong> 2025
+  </li>
   <li><a href="https://doi.org/10.1140/epjc/s10052-025-14789-4" target="_blank">The sound of quintessence: analogue Kiselev acoustic black holes</a><br>
       <strong>JOURNAL:</strong> The European Physical Journal C<br>
       <strong>Year:</strong> 2025
