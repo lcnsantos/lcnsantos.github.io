@@ -263,7 +263,7 @@ author_profile: true
             <div>
                 <h3>Testing the nature of GW200105 by probing the frequency evolution of   eccentricity</h3>
                 <div>
-                    <p><i>Avinash Tiwari, Sajad A. Bhat, MD Arif Shaikh, Shashvath J. Kapaida</i></p>
+                    <p><i>Avinash Tiwari, Sajad A. Bhat, Md Arif Shaikh, Shasvath J. Kapadia</i></p>
                     <p><b>Published: 2025-09-30</b></p>
                 </div>
                 <div>
@@ -273,8 +273,8 @@ author_profile: true
                     <p>GW200105 is a compact binary coalescence (CBC) event, consisting of a neutron star and a black hole, observed in LIGO-Virgo-KAGRA's (LVK's) third observing run (O3). Recent reanalyses of the event using state-of-the-art waveform models have claimed observation of signatures of an eccentric orbit. It has nevertheless been pointed out in the literature that certain physical or modified gravity effects could mimic eccentricity by producing a spurious non-zero eccentricity value, at a given reference frequency, when recovered with an eccentric waveform model. We recently developed a model-independent Eccentricity Evolution Consistency Test (EECT, S. A. Bhat et al. 2025) to identify such mimickers, by comparing the measured frequency $\textit{evolution}$ of eccentricity, $e(f)$, with that expected from General Relativity (GR). In this $\textit{Letter}$, we apply EECT to GW200105 and find that it satisfies EECT within 68% confidence. Our analysis therefore lends complementary support in favour of the eccentricity hypothesis, while also providing a novel test of the consistency of $e(f)$ with GR.</p>
                 </div>
                 <div>
-                    <a href="https://arxiv.org/abs/2509.26152v1" target="_blank">View on arXiv</a>
-                    <a href="http://arxiv.org/pdf/2509.26152v1" target="_blank">PDF</a>
+                    <a href="https://arxiv.org/abs/2509.26152v2" target="_blank">View on arXiv</a>
+                    <a href="http://arxiv.org/pdf/2509.26152v2" target="_blank">PDF</a>
                 </div>
                 <hr>
             </div>
@@ -320,7 +320,7 @@ author_profile: true
             <div>
                 <h3>Gravitational wave experiments: achievements and plans</h3>
                 <div>
-                    <p><i>Elista Bigongiari, Matteo Di Giovanni, Giovanni Losurdo</i></p>
+                    <p><i>Elisa Bigongiari, Matteo Di Giovanni, Giovanni Losurdo</i></p>
                     <p><b>Published: 2025-09-30</b></p>
                 </div>
                 <div>
@@ -330,8 +330,8 @@ author_profile: true
                     <p>Gravitational wave (GW) experiments have transformed our understanding of the Universe by enabling direct observations of compact object mergers and other astrophysical phenomena. This chapter reviews the concepts of GW detectors, such as LIGO, Virgo, and KAGRA, and describes their operating principles, data acquisition and analysis techniques, and some of the methods used to extract source properties. The scientific impact of GW observations is discussed as well, including contributions to astrophysics, tests of general relativity, and cosmology. We also examine the role of multimessenger astronomy and the complementarity between different GW detectors and with other astroparticle experiments. Finally, we outline future prospects with next-generation detectors, like the Einstein Telescope and Cosmic Explorer, and space-based missions.</p>
                 </div>
                 <div>
-                    <a href="https://arxiv.org/abs/2509.25952v1" target="_blank">View on arXiv</a>
-                    <a href="http://arxiv.org/pdf/2509.25952v1" target="_blank">PDF</a>
+                    <a href="https://arxiv.org/abs/2509.25952v2" target="_blank">View on arXiv</a>
+                    <a href="http://arxiv.org/pdf/2509.25952v2" target="_blank">PDF</a>
                 </div>
                 <hr>
             </div>
@@ -862,8 +862,8 @@ author_profile: true
                     <p>We consider general $k=-1$ FLRW covariant quantum spacetimes $\mathcal{M}^{3,1} \times \mathcal{K}$ with fuzzy extra dimensions $\mathcal{K}$ as classical solutions of the IKKT matrix model. The coupled equations of motion are recast in terms of conservation laws, which allow to determine the evolution of spacetime in a transparent way. We show that $\mathcal{K}$ is stabilized as a classical solution in the presence of a large $R$ charge, corresponding to internal angular momentum. This provides a mechanism to maintain a large hierarchy between UV and IR scales. We also argue that the evolution of spacetime is determined by a balance between classical and quantum effects, leading to a cosmic scale factor $a(t) \sim t$ and constant dilaton at late times. On such a background, the undeformed IKKT model leads to a higher-spin gauge theory including gravity.</p>
                 </div>
                 <div>
-                    <a href="https://arxiv.org/abs/2509.24753v1" target="_blank">View on arXiv</a>
-                    <a href="http://arxiv.org/pdf/2509.24753v1" target="_blank">PDF</a>
+                    <a href="https://arxiv.org/abs/2509.24753v2" target="_blank">View on arXiv</a>
+                    <a href="http://arxiv.org/pdf/2509.24753v2" target="_blank">PDF</a>
                 </div>
                 <hr>
             </div>
@@ -1163,11 +1163,11 @@ author_profile: true
             <p>Categories: hep-th</p>
                 </div>
                 <div>
-                    <p>The Kerr-Schild double copy is celebrated for producing exact gravitational spacetimes from gauge fields, yet the preservation of symmetry content gone largely unexplored. We investigate the fate of residual symmetries in the Kerr-Schild double copy, focusing on the Schwarzschild solution. On the gauge theory side, we derive the residual transformations that preserve the Abelian and non-Abelian Kerr-Schild ansatz\"e, finding they both form an infinite-dimensional Lie algebra parameterized by arbitrary null functions. On the gravity side, we analyze the resulting residual diffeomorphisms of the Kerr-Schild Schwarzschild metric. Restricting our focus to the Killing vector class of solutions, we find that the only surviving diffeomorphisms are the finite-dimensional global isometries of Schwarzschild, reducing the residual gauge algebra to the Poincar\'e subalgebra containing exclusively time translations and spatial rotations. This finding confirms a fundamental structural mismatch: the infinite-dimensional algebra of the gauge side admits no analogous structure in this gravitational sector. We formalize this by showing that the BRST operator for the residual symmetry is trivialized under the Killing condition, establishing the consistency of this algebraic reduction within a quantum field theoretic framework. This paper is the first of a two-part series. In Part II, we complete this analysis by examining the more complex proper conformal Killing vector class of solutions and formulating a unified BRST framework.</p>
+                    <p>The Kerr-Schild double copy is celebrated for producing exact gravitational spacetimes from gauge fields, yet the preservation of symmetry content remains largely unexplored. We investigate the fate of residual symmetries in the Kerr-Schild double copy, focusing on the Schwarzschild solution. On the gauge theory side, we derive the residual transformations that preserve the Abelian and non-Abelian Kerr-Schild ansatz\"e, finding they both form an infinite-dimensional Lie algebra parameterized by arbitrary null functions. On the gravity side, we analyze the resulting residual diffeomorphisms of the Kerr-Schild Schwarzschild metric. Restricting our focus to the Killing vector class of solutions, we find that the only surviving diffeomorphisms are the finite-dimensional global isometries of Schwarzschild, reducing the residual gauge algebra to the Poincar\'e subalgebra containing exclusively time translations and spatial rotations. This finding confirms a fundamental structural mismatch: the infinite-dimensional algebra of the gauge side admits no analogous structure in this gravitational sector. We formalize this by showing that the BRST operator for the residual symmetry is trivialized under the Killing condition, establishing the consistency of this algebraic reduction within a quantum field theoretic framework. This paper is the first of a two-part series. In Part II, we complete this analysis by examining the more complex proper conformal Killing vector class of solutions and formulating a unified BRST framework.</p>
                 </div>
                 <div>
-                    <a href="https://arxiv.org/abs/2509.24112v2" target="_blank">View on arXiv</a>
-                    <a href="http://arxiv.org/pdf/2509.24112v2" target="_blank">PDF</a>
+                    <a href="https://arxiv.org/abs/2509.24112v3" target="_blank">View on arXiv</a>
+                    <a href="http://arxiv.org/pdf/2509.24112v3" target="_blank">PDF</a>
                 </div>
                 <hr>
             </div>
@@ -1182,11 +1182,11 @@ author_profile: true
             <p>Categories: physics.hist-ph</p>
                 </div>
                 <div>
-                    <p>The standard model of particle physics relies heavily on the idea of symmetry. But recently, a new geometry-first picture has been proposed in which the relevant symmetries do not appear explicitly at the ground level of ontology. Here, I extend the initial correspondence to include alternative -- and more transparent -- accounts of spontaneous symmetry breaking and of the Yukawa coupling: both fundamental for particles to have masses. These reformulations allow us to replace explanations that employ typical particle physics ideas and terminology with ones that are phrased geometrically</p>
+                    <p>The standard model of particle physics is usually cast in symmetry-first terms. Recently, a geometry-first picture has been proposed, in which the relevant symmetries do not appear explicitly at the ground level of ontology. In this paper I extend this approach to two central mechanisms of the standard model: spontaneous symmetry breaking and the Yukawa coupling, both essential for particles to acquire mass. These reformulations offer alternative explanations cast in purely geometric terms. For example, a particle's quantum numbers correspond to the internal space it inhabits and to the geometric type of object it is (e.g. an $(n,m)$-tensor). I argue that a symmetry-first account in terms of principal and associated bundles admits a genuine geometry-first counterpart only when the group's representation coincides with the automorphism group of the fibre -- a condition that cuts the slack tolerated by the symmetry-first view.</p>
                 </div>
                 <div>
-                    <a href="https://arxiv.org/abs/2509.25276v1" target="_blank">View on arXiv</a>
-                    <a href="http://arxiv.org/pdf/2509.25276v1" target="_blank">PDF</a>
+                    <a href="https://arxiv.org/abs/2509.25276v2" target="_blank">View on arXiv</a>
+                    <a href="http://arxiv.org/pdf/2509.25276v2" target="_blank">PDF</a>
                 </div>
                 <hr>
             </div>
