@@ -1135,25 +1135,6 @@ author_profile: true
             </div>
             
             <div>
-                <h3>Searching Stochastic Gravitational Wave Background Landscape Across Frequency Bands</h3>
-                <div>
-                    <p><i>Yunjia Bao, Tore Boybeyi, Vuk Mandic, Lian-Tao Wang</i></p>
-                    <p><b>Published: 2025-11-24</b></p>
-                </div>
-                <div>
-            <p>Categories: gr-qc</p>
-                </div>
-                <div>
-                    <p>Gravitational wave (GW) astrophysics is entering a multi-band era with upcoming GW detectors, enabling detailed mapping of the stochastic GW background across vast frequencies. We highlight this potential via a new physics scenario: hybrid topological defects from a two-step phase transition separated by inflation. We develop a general pipeline to analyze experimental exclusions and apply it to this model. The model offers a possible explanation of the pulsar timing array signal at low frequencies, and future experiments (LISA/Cosmic Explorer/Einstein Telescope) will confirm or rule it out via the higher-frequency probes, showcasing the power of multi-band constraints.</p>
-                </div>
-                <div>
-                    <a href="https://arxiv.org/abs/2511.19590v1" target="_blank">View on arXiv</a>
-                    <a href="https://arxiv.org/pdf/2511.19590v1" target="_blank">PDF</a>
-                </div>
-                <hr>
-            </div>
-            
-            <div>
                 <h3>On decoding the string from interfaces in 2d conformal field theories</h3>
                 <div>
                     <p><i>Avik Banerjee, Tanay Kibe, Ayan Mukhopadhyay, Giuseppe Policastro</i></p>
@@ -1168,6 +1149,25 @@ author_profile: true
                 <div>
                     <a href="https://arxiv.org/abs/2511.19592v1" target="_blank">View on arXiv</a>
                     <a href="https://arxiv.org/pdf/2511.19592v1" target="_blank">PDF</a>
+                </div>
+                <hr>
+            </div>
+            
+            <div>
+                <h3>Searching Stochastic Gravitational Wave Background Landscape Across Frequency Bands</h3>
+                <div>
+                    <p><i>Yunjia Bao, Tore Boybeyi, Vuk Mandic, Lian-Tao Wang</i></p>
+                    <p><b>Published: 2025-11-24</b></p>
+                </div>
+                <div>
+            <p>Categories: gr-qc</p>
+                </div>
+                <div>
+                    <p>Gravitational wave (GW) astrophysics is entering a multi-band era with upcoming GW detectors, enabling detailed mapping of the stochastic GW background across vast frequencies. We highlight this potential via a new physics scenario: hybrid topological defects from a two-step phase transition separated by inflation. We develop a general pipeline to analyze experimental exclusions and apply it to this model. The model offers a possible explanation of the pulsar timing array signal at low frequencies, and future experiments (LISA/Cosmic Explorer/Einstein Telescope) will confirm or rule it out via the higher-frequency probes, showcasing the power of multi-band constraints.</p>
+                </div>
+                <div>
+                    <a href="https://arxiv.org/abs/2511.19590v1" target="_blank">View on arXiv</a>
+                    <a href="https://arxiv.org/pdf/2511.19590v1" target="_blank">PDF</a>
                 </div>
                 <hr>
             </div>
