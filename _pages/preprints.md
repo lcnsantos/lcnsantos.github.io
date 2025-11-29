@@ -1135,25 +1135,6 @@ author_profile: true
             </div>
             
             <div>
-                <h3>On decoding the string from interfaces in 2d conformal field theories</h3>
-                <div>
-                    <p><i>Avik Banerjee, Tanay Kibe, Ayan Mukhopadhyay, Giuseppe Policastro</i></p>
-                    <p><b>Published: 2025-11-24</b></p>
-                </div>
-                <div>
-            <p>Categories: hep-th</p>
-                </div>
-                <div>
-                    <p>General solutions of a gravitational junction between two copies of a three-dimensional Einstein manifold $\mathcal{M}$ correspond to the solutions of the non-linear Nambu-Goto equation for a string in $\mathcal{M}$. We show that, for the junctions in three-dimensional anti-de Sitter spacetimes constituted by tensile strings, which are dual to interfaces between thermal states in conformal field theories, the solutions of the Nambu-Goto equation describing the junction correspond to state-dependent wave-packets, which are perfectly reflected at the interface to future null infinity without shape distortion when incident from past null infinity. These wavepackets are realized by state-dependent half-sided conformal transformations and affect the expectation value of the displacement operator. We further show that the entanglement entropy of an interval straddling the interface deciphers the stringy modes of the dual junction even in the tensionless limit. We also demonstrate that the strong sub-additivity of entanglement entropy is satisfied and is saturated for symmetric intervals generally.</p>
-                </div>
-                <div>
-                    <a href="https://arxiv.org/abs/2511.19592v1" target="_blank">View on arXiv</a>
-                    <a href="https://arxiv.org/pdf/2511.19592v1" target="_blank">PDF</a>
-                </div>
-                <hr>
-            </div>
-            
-            <div>
                 <h3>Searching Stochastic Gravitational Wave Background Landscape Across Frequency Bands</h3>
                 <div>
                     <p><i>Yunjia Bao, Tore Boybeyi, Vuk Mandic, Lian-Tao Wang</i></p>
@@ -1168,6 +1149,25 @@ author_profile: true
                 <div>
                     <a href="https://arxiv.org/abs/2511.19590v1" target="_blank">View on arXiv</a>
                     <a href="https://arxiv.org/pdf/2511.19590v1" target="_blank">PDF</a>
+                </div>
+                <hr>
+            </div>
+            
+            <div>
+                <h3>On decoding the string from interfaces in 2d conformal field theories</h3>
+                <div>
+                    <p><i>Avik Banerjee, Tanay Kibe, Ayan Mukhopadhyay, Giuseppe Policastro</i></p>
+                    <p><b>Published: 2025-11-24</b></p>
+                </div>
+                <div>
+            <p>Categories: hep-th</p>
+                </div>
+                <div>
+                    <p>General solutions of a gravitational junction between two copies of a three-dimensional Einstein manifold $\mathcal{M}$ correspond to the solutions of the non-linear Nambu-Goto equation for a string in $\mathcal{M}$. We show that, for the junctions in three-dimensional anti-de Sitter spacetimes constituted by tensile strings, which are dual to interfaces between thermal states in conformal field theories, the solutions of the Nambu-Goto equation describing the junction correspond to state-dependent wave-packets, which are perfectly reflected at the interface to future null infinity without shape distortion when incident from past null infinity. These wavepackets are realized by state-dependent half-sided conformal transformations and affect the expectation value of the displacement operator. We further show that the entanglement entropy of an interval straddling the interface deciphers the stringy modes of the dual junction even in the tensionless limit. We also demonstrate that the strong sub-additivity of entanglement entropy is satisfied and is saturated for symmetric intervals generally.</p>
+                </div>
+                <div>
+                    <a href="https://arxiv.org/abs/2511.19592v1" target="_blank">View on arXiv</a>
+                    <a href="https://arxiv.org/pdf/2511.19592v1" target="_blank">PDF</a>
                 </div>
                 <hr>
             </div>
@@ -1795,120 +1795,6 @@ author_profile: true
                 <div>
                     <a href="https://arxiv.org/abs/2511.18251v1" target="_blank">View on arXiv</a>
                     <a href="https://arxiv.org/pdf/2511.18251v1" target="_blank">PDF</a>
-                </div>
-                <hr>
-            </div>
-            
-            <div>
-                <h3>Hawking-radiation-ignited autocatalytic formation of primordial black holes</h3>
-                <div>
-                    <p><i>Alexander Yakimenko</i></p>
-                    <p><b>Published: 2025-11-22</b></p>
-                </div>
-                <div>
-            <p>Categories: gr-qc</p>
-                </div>
-                <div>
-                    <p>We propose and analyze an autocatalytic mechanism in which bursts of Hawking radiation from evaporating micro-primordial black holes (PBHs) trigger the collapse of near-critical plasma overdensities. In a primordial plasma seeded with such patches, this feedback self organizes into a traveling ignition front that successively forms new PBHs and then self-quenches as the Universe expands. A minimal reaction-diffusion model yields conservative criteria for ignition and freeze-out and predicts a stochastic gravitational-wave background with a sharp causal low-frequency edge set by the freeze-out correlation length and largely insensitive to Planck-scale PBH endpoint microphysics. The resulting sub-Hz-to-audio band and amplitudes satisfy cosmological energy-injection bounds, providing a clean, testable target for forthcoming gravitational-wave observatories.</p>
-                </div>
-                <div>
-                    <a href="https://arxiv.org/abs/2511.18110v1" target="_blank">View on arXiv</a>
-                    <a href="https://arxiv.org/pdf/2511.18110v1" target="_blank">PDF</a>
-                </div>
-                <hr>
-            </div>
-            
-            <div>
-                <h3>Primordial black hole driven cosmic acceleration</h3>
-                <div>
-                    <p><i>Konstantinos Dialektopoulos, Theodoros Papanikolaou, Vasilios Zarikas</i></p>
-                    <p><b>Published: 2025-11-22</b></p>
-                </div>
-                <div>
-            <p>Categories: gr-qc</p>
-                </div>
-                <div>
-                    <p>We propose a natural mechanism for cosmic acceleration driven by primordial black holes (PBHs) with repulsive behavior, within a ''Swiss Cheese'' cosmological framework. Considering regular black hole spacetimes such as Hayward, Bardeen, and Dymnikova-as well as the singular Schwarzschild-de Sitter case-we consistently find a robust PBH-driven cosmic acceleration phase. This phase ends either at an energy scale set by the PBH parameters or through black hole evaporation. Notably, one finds that ultra-light PBHs with $m < 5 \times 10^8 \, {\rm g}$ can trigger exponential inflation with graceful exit and reheating. Additionally, PBHs with $m \sim 10^{12} \, {\rm g}$ and abundances $0.107 < Ω_{\rm PBH}^{\rm eq} < 0.5$ near matter-radiation equality can act as an early dark energy component, offering a potential resolution to the Hubble tension.</p>
-                </div>
-                <div>
-                    <a href="https://arxiv.org/abs/2511.18080v1" target="_blank">View on arXiv</a>
-                    <a href="https://arxiv.org/pdf/2511.18080v1" target="_blank">PDF</a>
-                </div>
-                <hr>
-            </div>
-            
-            <div>
-                <h3>Universal scalarization in topological AdS black holes</h3>
-                <div>
-                    <p><i>Zi-Qiang Zhao, Zhang-Yu Nie, Shao-Wen Wei, Jing-Fei Zhang, Xin Zhang</i></p>
-                    <p><b>Published: 2025-11-22</b></p>
-                </div>
-                <div>
-            <p>Categories: gr-qc</p>
-                </div>
-                <div>
-                    <p>We investigate the universal behavior of black hole scalarization induced by a charged scalar field in the extended phase space of the asymptotic AdS spacetime with three distinct horizon topologies. The results indicate that in all the three cases, the charged black hole spacetime undergoes scalarization at low temperatures. Notably, the spherical topology is unique in that its domain of scalarization theoretically extends to much higher temperatures under low pressure in the extended phase space. Moreover, the scalarization process in the spherical case exhibits complex phase transition behaviors without additional non-linear terms, which are similar to those in the planar and hyperbolic topologies with the assistance of non-linear terms. With increasing pressure in the extended phase space, the condensate of the scalarization in all three cases undergoes a transition from the first-order style to a cave-of-wind style. This study provides deeper insight into the zeroth-order phase transition during black hole scalarization and reveals the complete phase structure of black holes in the extended phase space.</p>
-                </div>
-                <div>
-                    <a href="https://arxiv.org/abs/2511.18074v1" target="_blank">View on arXiv</a>
-                    <a href="https://arxiv.org/pdf/2511.18074v1" target="_blank">PDF</a>
-                </div>
-                <hr>
-            </div>
-            
-            <div>
-                <h3>Constraining linear form of $f(\mathcal{R,G,T})$ gravity from astrophysical observations of the Pulsar U1724</h3>
-                <div>
-                    <p><i>G. G. L. Nashed</i></p>
-                    <p><b>Published: 2025-11-22</b></p>
-                </div>
-                <div>
-            <p>Categories: gr-qc</p>
-                </div>
-                <div>
-                    <p>In this work we examine the internal structure of compact stars within an extended gravitational framework described by the function $f(\mathcal{R},\mathcal{G},\mathcal{T})$. Throughout this work, the quantity $\mathcal{R}$ refers to the curvature scalar formed from the Ricci tensor. The term $\mathcal{G}$ denotes the Gauss--Bonnet curvature invariant, while $\mathcal{T}$ corresponds to the trace obtained by contracting the matter energy-momentum tensor. Our analysis is directed toward massive radio pulsars with masses above $1.8\,M_{\odot}$, which provide an exceptional testing ground for gravity under conditions inaccessible to laboratory experiments. Adopting the linear form $f(\mathcal{R},\mathcal{G},\mathcal{T})=\mathcal{R}+α\,\mathcal{G}+β\,\mathcal{T}$ where $α$ and $β$ are parameters of suitable dimensionality,\footnote{$α$ has dimensions of $[L^{2}]$ and $β$ carries units of $[N^{-1}]$.} we obtain an exact analytic solution for static anisotropic stellar matter in hydrostatic equilibrium. This solution allows all physical quantities to be expressed in terms of the dimensionless parameters $ α_{1}=α/R^{2},\qquad β_{1}=β/κ^{2}$ together with the compactness $C=2GM/(Rc^{2})$. We constraint the two parameters $α$ and $β$ by matching the model with the mass and radius of pulsar \textit{U1724} requires restricting these parameters to $α_{1}=\pm0.023$ and $β_{1}=\pm0.001$, where $κ^{2}=8πG/c^{4}$ is the standard Einstein coupling. The resulting stellar configuration satisfies the causal bound on the radial sound speed, $c_{s}^{2}<c^{2}/3$, distinguishing it from the corresponding behaviour in general relativity.</p>
-                </div>
-                <div>
-                    <a href="https://arxiv.org/abs/2511.18017v1" target="_blank">View on arXiv</a>
-                    <a href="https://arxiv.org/pdf/2511.18017v1" target="_blank">PDF</a>
-                </div>
-                <hr>
-            </div>
-            
-            <div>
-                <h3>Probing Loop Quantum Gravity black holes through gravitational lensing</h3>
-                <div>
-                    <p><i>Arun Kumar, Qiang Wu, Tao Zhu, Sushant G. Ghosh</i></p>
-                    <p><b>Published: 2025-11-22</b></p>
-                </div>
-                <div>
-            <p>Categories: gr-qc</p>
-                </div>
-                <div>
-                    <p>We investigate strong gravitational lensing by a charged loop quantum gravity (LQG) black hole obtained through the polymerisation scheme of Borges \textit{et al.} \cite{Borges:2023fog}. These effective geometries replace the Reissner--Nordström singularity with a symmetric transition surface and admit an extremal, cold remnant determined by the minimal area gap in LQG. In turn, we derive the null geodesic equations, investigate the photon effective potential, and obtain expressions for the photon-sphere radius and critical impact parameter. We compute the weak-field deflection angle and Einstein ring size, highlighting the deviations induced by the polymerisation parameter and the Barbero--Immirzi parameter. In the strong-field regime, we compute the strong deflection coefficients $(\bar{a},\bar{b})$ and evaluate the lensing observables $θ_\infty$, $s$, and $r_{\rm mag}$. Unlike the Reissner--Nordström case, the LQG corrections enhance the deflection angle and increase the angular separation of relativistic images, with deviations growing as the geometry approaches the LQG remnant limit. We further compute the corresponding observables for Sgr~A* and M87*, finding that the quantum-gravity modifications lie within the potential sensitivity of next-generation VLBI facilities. For M87*, the angular separation $s\in(0.05712,0.19123)\,μ\text{as}$, while it is $s\in(0.07595,0.25426)\,μ\text{as}$ for Sgr A*. The relative flux ratio is found to lie in the range, $r_{\rm mag}\in(4.49272,5.96397)$. Our analysis demonstrates that LQG-induced corrections leave characteristic strong and weak-lensing imprints, offering a promising observational pathway to probe quantum gravity using near-future high-resolution observations.</p>
-                </div>
-                <div>
-                    <a href="https://arxiv.org/abs/2511.17975v1" target="_blank">View on arXiv</a>
-                    <a href="https://arxiv.org/pdf/2511.17975v1" target="_blank">PDF</a>
-                </div>
-                <hr>
-            </div>
-            
-            <div>
-                <h3>Late-time cosmic dynamics in $f(R,L_{m})$ gravity with recent observations</h3>
-                <div>
-                    <p><i>Amit Samaddar, S. Surendra Singh</i></p>
-                    <p><b>Published: 2025-11-22</b></p>
-                </div>
-                <div>
-            <p>Categories: gr-qc</p>
-                </div>
-                <div>
-                    <p>In this work, we investigate the late-time cosmic dynamics in the framework of non-linear $f(R, L_m)$ gravity, adopting the functional form $f(R,L_m)=\frac{R}{2}+L_m^2$. To explore the dark energy behavior, we assume an oscillatory parametric equation of state, $ω(z) = ω_0 + b \sin[\log(1+z)]$, which allows smooth deviations from the cosmological constant. Using a joint MCMC analysis with the latest Hubble 31 chronometer data, DESI DR2 BAO measurements, and Type Ia supernova samples (Pantheon+, DES-SN5Y and Union 3), we obtain well-constrained parameters around $H_0 \simeq 67.2~\text{km s}^{-1}\text{Mpc}^{-1}$ and $ω_0\approx-0.5$, consistent with Planck 2018 and other current observations. The model exhibits a clear transition from deceleration to acceleration with $z_{\rm tr} \sim 0.7$--$0.8$, satisfies the NEC and DEC while violating the SEC and yields present EoS values close to $-1$, reproducing $Λ$CDM behavior at late times. The derived Universe ages ($t_0 \approx 13.3~\text{Gyr}$) agree well with CMB and stellar constraints, confirming that the proposed oscillatory $f(R, L_m)$ model provides an observationally consistent and dynamically viable alternative to $Λ$CDM cosmology.</p>
-                </div>
-                <div>
-                    <a href="https://arxiv.org/abs/2511.17903v1" target="_blank">View on arXiv</a>
-                    <a href="https://arxiv.org/pdf/2511.17903v1" target="_blank">PDF</a>
                 </div>
                 <hr>
             </div>
