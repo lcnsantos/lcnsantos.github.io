@@ -1135,25 +1135,6 @@ author_profile: true
             </div>
             
             <div>
-                <h3>Searching Stochastic Gravitational Wave Background Landscape Across Frequency Bands</h3>
-                <div>
-                    <p><i>Yunjia Bao, Tore Boybeyi, Vuk Mandic, Lian-Tao Wang</i></p>
-                    <p><b>Published: 2025-11-24</b></p>
-                </div>
-                <div>
-            <p>Categories: gr-qc</p>
-                </div>
-                <div>
-                    <p>Gravitational wave (GW) astrophysics is entering a multi-band era with upcoming GW detectors, enabling detailed mapping of the stochastic GW background across vast frequencies. We highlight this potential via a new physics scenario: hybrid topological defects from a two-step phase transition separated by inflation. We develop a general pipeline to analyze experimental exclusions and apply it to this model. The model offers a possible explanation of the pulsar timing array signal at low frequencies, and future experiments (LISA/Cosmic Explorer/Einstein Telescope) will confirm or rule it out via the higher-frequency probes, showcasing the power of multi-band constraints.</p>
-                </div>
-                <div>
-                    <a href="https://arxiv.org/abs/2511.19590v1" target="_blank">View on arXiv</a>
-                    <a href="https://arxiv.org/pdf/2511.19590v1" target="_blank">PDF</a>
-                </div>
-                <hr>
-            </div>
-            
-            <div>
                 <h3>On decoding the string from interfaces in 2d conformal field theories</h3>
                 <div>
                     <p><i>Avik Banerjee, Tanay Kibe, Ayan Mukhopadhyay, Giuseppe Policastro</i></p>
@@ -1168,6 +1149,25 @@ author_profile: true
                 <div>
                     <a href="https://arxiv.org/abs/2511.19592v1" target="_blank">View on arXiv</a>
                     <a href="https://arxiv.org/pdf/2511.19592v1" target="_blank">PDF</a>
+                </div>
+                <hr>
+            </div>
+            
+            <div>
+                <h3>Searching Stochastic Gravitational Wave Background Landscape Across Frequency Bands</h3>
+                <div>
+                    <p><i>Yunjia Bao, Tore Boybeyi, Vuk Mandic, Lian-Tao Wang</i></p>
+                    <p><b>Published: 2025-11-24</b></p>
+                </div>
+                <div>
+            <p>Categories: gr-qc</p>
+                </div>
+                <div>
+                    <p>Gravitational wave (GW) astrophysics is entering a multi-band era with upcoming GW detectors, enabling detailed mapping of the stochastic GW background across vast frequencies. We highlight this potential via a new physics scenario: hybrid topological defects from a two-step phase transition separated by inflation. We develop a general pipeline to analyze experimental exclusions and apply it to this model. The model offers a possible explanation of the pulsar timing array signal at low frequencies, and future experiments (LISA/Cosmic Explorer/Einstein Telescope) will confirm or rule it out via the higher-frequency probes, showcasing the power of multi-band constraints.</p>
+                </div>
+                <div>
+                    <a href="https://arxiv.org/abs/2511.19590v1" target="_blank">View on arXiv</a>
+                    <a href="https://arxiv.org/pdf/2511.19590v1" target="_blank">PDF</a>
                 </div>
                 <hr>
             </div>
@@ -1586,215 +1586,6 @@ author_profile: true
                 <div>
                     <a href="https://arxiv.org/abs/2511.18681v1" target="_blank">View on arXiv</a>
                     <a href="https://arxiv.org/pdf/2511.18681v1" target="_blank">PDF</a>
-                </div>
-                <hr>
-            </div>
-            
-            <div>
-                <h3>How Complex is Dark Energy? A Bayesian Analysis of CPL Extensions with Recent DESI BAO Measurements</h3>
-                <div>
-                    <p><i>Mohammad Malekjani, Saeed Pourojaghi, Zahra Davari</i></p>
-                    <p><b>Published: 2025-11-23</b></p>
-                </div>
-                <div>
-            <p>Categories: astro-ph.CO</p>
-                </div>
-                <div>
-                    <p>The nature of dark energy is one of the big puzzling issues in cosmology. While $Λ$CDM provides a good fit to the observational data, evolving dark energy scenarios, such as the CPL parametrization, offer a compelling alternative. In this paper, we present a Bayesian model comparison of various dark energy parametrizations using a joint analysis of Cosmic Microwave Background data, DESI Baryon Acoustic Oscillation measurements, and the PantheonPlus (or Union3) Supernovae type Ia sample. We find that while the $Λ$CDM model is initially favored over a constant $w$CDM model, the CPL parametrization is significantly preferred over $w$CDM, reinforcing recent evidence for an evolving dark energy component, consistent with DESI collaboration findings. Crucially, when testing higher-order CPL extensions, the so-called CPL$^+$ and CPL$^{++}$, our Bayesian analysis shows that the observational data do not favor these more complex scenarios compared to the standard CPL. This result indicates that adding excessive complexity to the CPL form is unwarranted by current observations. Interestingly, similar to the CPL parametrization, alternative two-parameter forms, specifically $w_{de}(a) = w_0 + w_b(1-a)^2$ and $w_{de}(a) = w_0 + w_c(1-a)^3$, yield a better fit to observational data than the standard $Λ$CDM cosmology. Our results challenge the necessity for overly complex CPL extensions and confirm that well-chosen two-parameter $w_0w_a$ parametrizations effectively capture DE evolution with current cosmological data, supporting the recent signals for dynamical dark energy by DESI collaboration.</p>
-                </div>
-                <div>
-                    <a href="https://arxiv.org/abs/2511.18657v1" target="_blank">View on arXiv</a>
-                    <a href="https://arxiv.org/pdf/2511.18657v1" target="_blank">PDF</a>
-                </div>
-                <hr>
-            </div>
-            
-            <div>
-                <h3>New Near Extremal Black Holes and Love Symmetry</h3>
-                <div>
-                    <p><i>Alfredo Guevara, Uri Kol</i></p>
-                    <p><b>Published: 2025-11-23</b></p>
-                </div>
-                <div>
-            <p>Categories: hep-th</p>
-                </div>
-                <div>
-                    <p>Rotating and charged black holes are known to exhibit remarkable properties close to extremality, including emergent hidden symmetries and holographic duality to 2D theories. In this note, we introduce a new class of near-extremal black holes living in $(2,2)$ signature, strongly resembling the Lorentzian ones but with an exact integrable structure $SL(2,\mathbb{R})\times SL(2,\mathbb{R})$. The exterior of the black hole is a self-dual solution with a photon ring. It develops an infinite near-horizon throat described by the Eguchi-Hanson instanton. An exact version of the so-called Love symmetry controls perturbations on the throat. Furthermore, the normalizable spectrum of this black hole provides quasinormal modes in Lorentzian signature.</p>
-                </div>
-                <div>
-                    <a href="https://arxiv.org/abs/2511.18637v1" target="_blank">View on arXiv</a>
-                    <a href="https://arxiv.org/pdf/2511.18637v1" target="_blank">PDF</a>
-                </div>
-                <hr>
-            </div>
-            
-            <div>
-                <h3>Dynamical interplay between coupled scalar dark sectors and gravity</h3>
-                <div>
-                    <p><i>Mihai Marciu</i></p>
-                    <p><b>Published: 2025-11-23</b></p>
-                </div>
-                <div>
-            <p>Categories: gr-qc</p>
-                </div>
-                <div>
-                    <p>We explore a novel cosmological model based on coupled fields in the framework of scalar tensor theories, considering the specific interplay between gravity and scalar fields. The model further extends a recent axion-dilaton system by introducing viable couplings with the space--time geometry encoded into the scalar curvature. After briefly introducing the action and the corresponding field equations, we employ linear stability theory to investigate the physical properties. The analysis showed the compatibility of the current theoretical model with the recent history of the Universe, obtaining viable constraints for the model's parameters in some specific cases. In the present setup, the axion--dilaton system is non--minimally coupled with gravity in an independent manner, leading to distinct physical features in the phase-space structure, possible alleviating the cosmic coincidence problem.</p>
-                </div>
-                <div>
-                    <a href="https://arxiv.org/abs/2511.18585v1" target="_blank">View on arXiv</a>
-                    <a href="https://arxiv.org/pdf/2511.18585v1" target="_blank">PDF</a>
-                </div>
-                <hr>
-            </div>
-            
-            <div>
-                <h3>From LIGO to Fiber- Compact Sagnac Interferometer for Gravitational-Wave Detection</h3>
-                <div>
-                    <p><i>Farhad Hakimi, Hosain Hakimi</i></p>
-                    <p><b>Published: 2025-11-23</b></p>
-                </div>
-                <div>
-            <p>Categories: physics.ins-det</p>
-                </div>
-                <div>
-                    <p>Gravitational wave detection has transformed astrophysics, granting us direct access to black hole mergers, neutron star collisions, and the cataclysms of stellar death. Yet the great observatories of today, LIGO, Virgo, KAGRA, and the planned Einstein Telescope, rest on Michelson interferometers that, despite their triumphs, confront fundamental barriers of scale, cost, and environmental vulnerability. We envision a new path, a Sagnac-based fiber interferometer that leverages reciprocity and inherent robustness. Its meter-scale, modular design compact enough to fit within a small facility, offers dramatic gains in scalability and affordability over kilometer scale Michelson systems. Tunable to frequency bands where conventional detectors lose sensitivity, it opens the door to compact, versatile, and accessible GW observatories, empowering universities and research centers worldwide. Linked together in a global network, such facilities could transcend mere detection, they could localize cosmic sources and reconstruct them into images, much as black holes were first directly revealed, ushering in a new era of gravitational-wave astronomy and multi-messenger discovery.</p>
-                </div>
-                <div>
-                    <a href="https://arxiv.org/abs/2511.18529v1" target="_blank">View on arXiv</a>
-                    <a href="https://arxiv.org/pdf/2511.18529v1" target="_blank">PDF</a>
-                </div>
-                <hr>
-            </div>
-            
-            <div>
-                <h3>Non-Singular Bouncing Cosmology from Hyperbolic Field Space Geometry</h3>
-                <div>
-                    <p><i>Oleksandr Kravchenko</i></p>
-                    <p><b>Published: 2025-11-23</b></p>
-                </div>
-                <div>
-            <p>Categories: gr-qc</p>
-                </div>
-                <div>
-                    <p>We investigate a two-field cosmological model in a closed ($k=+1$) universe where the field space is endowed with a hyperbolic geometry. We demonstrate that the curvature of the field space introduces a kinetic coupling that exponentially suppresses the scalar field kinetic energy as the fields explore certain regions, allowing the spatial curvature to dominate and trigger a non-singular bounce. Crucially, the model satisfies the Null Energy Condition (NEC) throughout, with the bounce driven entirely by the positive spatial curvature -- not by exotic physics. We derive analytic solutions for the bounce, verify them numerically, and compute observable predictions. The model predicts a tensor-to-scalar ratio $r \approx 0.003$--$0.005$ and local non-Gaussianity $f_{\rm NL} \sim \mathcal{O}(1)$, placing it within reach of next-generation CMB experiments such as LiteBIRD and CMB-S4. The model is ghost-free by construction.</p>
-                </div>
-                <div>
-                    <a href="https://arxiv.org/abs/2511.18522v1" target="_blank">View on arXiv</a>
-                    <a href="https://arxiv.org/pdf/2511.18522v1" target="_blank">PDF</a>
-                </div>
-                <hr>
-            </div>
-            
-            <div>
-                <h3>Looking through the Kerr disk</h3>
-                <div>
-                    <p><i>Maciej Maliborski, Tobias C. Sutter</i></p>
-                    <p><b>Published: 2025-11-23</b></p>
-                </div>
-                <div>
-            <p>Categories: gr-qc</p>
-                </div>
-                <div>
-                    <p>We study null geodesics that connect the two asymptotically flat regions of the maximally extended Kerr spacetime. These vortical geodesics traverse both horizons and pass through the ring singularity, linking the positive-$r$ exterior to the negative-$r$ asymptotic side. Using impact parameters, we identify a closed subset of parameter space, the inner throat, where the radial potential has no real roots, and photons exhibit no radial turning points. In this region, at most two constant-latitude geodesics exist, one of which is aligned with the principal null direction. We also identify the forbidden polar-angle band that limits the range of geodesics reaching an asymptotic observer. We solve the geodesic equations analytically and numerically in Eddington-Finkelstein-like coordinates, obtaining mutually consistent results that correct and extend previously available formulae. The resulting trajectories are used to construct simulated views for an observer in the negative-$r$ domain, revealing strong image distortion and inversion, with possible implications for analogous white-hole configurations.</p>
-                </div>
-                <div>
-                    <a href="https://arxiv.org/abs/2511.18502v1" target="_blank">View on arXiv</a>
-                    <a href="https://arxiv.org/pdf/2511.18502v1" target="_blank">PDF</a>
-                </div>
-                <hr>
-            </div>
-            
-            <div>
-                <h3>Energy transfer between the sources in gravitational decoupling</h3>
-                <div>
-                    <p><i>Daulet Berkimbayev</i></p>
-                    <p><b>Published: 2025-11-23</b></p>
-                </div>
-                <div>
-            <p>Categories: gr-qc</p>
-                </div>
-                <div>
-                    <p>A straightforward and fully analytic approach is introduced to examine how polytropic fluids influence arbitrary gravitational sources in static, spherically symmetric spacetimes. As a concrete application, we explore the internal mechanism of energy transfer between gravitational sources embedded within a self-gravitating system.</p>
-                </div>
-                <div>
-                    <a href="https://arxiv.org/abs/2511.18485v1" target="_blank">View on arXiv</a>
-                    <a href="https://arxiv.org/pdf/2511.18485v1" target="_blank">PDF</a>
-                </div>
-                <hr>
-            </div>
-            
-            <div>
-                <h3>Constraint on massive vector field with extreme-mass-ratio inspirals around a slowly rotating black hole</h3>
-                <div>
-                    <p><i>Tieguang Zi, Peng-Cheng Li, Bao-Min Gu, Fu-Wen Shu</i></p>
-                    <p><b>Published: 2025-11-23</b></p>
-                </div>
-                <div>
-            <p>Categories: gr-qc</p>
-                </div>
-                <div>
-                    <p>We study the influence of a massive vector (Proca) field on the energy fluxes from extreme-mass-ratio inspirals (EMRIs) around a slowly rotating Kerr black hole. The secondary compact object, carrying a Proca hair, emits additional dipolar radiation that alters total energy flux relative to general relativity (GR). These modifications induce a secular drift in the orbital evolution of circular geodesic orbits, leading to measurable dephasing in the resulting EMRIs waveforms. By evaluating waveform mismatches between the Einstein-Proca framework and its GR counterpart, we show that the Laser Interferometer Space Antenna (LISA) can distinguish the signatures of a light Proca field when black hole rotation is included. Furthermore, using a Fisher information matrix analysis, we forecast LISA's capability to place stringent constraints on the Proca mass with EMRIs signal from slowly rotating Kerr black holes. For representative EMRIs configurations, we find that LISA can detect or constrain Proca masses down to $μ_v\sim 10^{-20}$eV, with typical fractional uncertainties at the level of tens percent, depending on the black-hole spin.</p>
-                </div>
-                <div>
-                    <a href="https://arxiv.org/abs/2511.18435v1" target="_blank">View on arXiv</a>
-                    <a href="https://arxiv.org/pdf/2511.18435v1" target="_blank">PDF</a>
-                </div>
-                <hr>
-            </div>
-            
-            <div>
-                <h3>Black Hole Spin Estimation with Time-variable Image of M87 During the Flaring State</h3>
-                <div>
-                    <p><i>Mikiya M. Takahashi, Tomohisa Kawashima, Ken Ohsuga</i></p>
-                    <p><b>Published: 2025-11-23</b></p>
-                </div>
-                <div>
-            <p>Categories: astro-ph.HE</p>
-                </div>
-                <div>
-                    <p>By investigating the time-variable 230 GHz images using ray-tracing general relativistic radiative transfer calculation, we propose a novel method for estimating the spin parameter of the supermassive black hole at the M87 center by utilizing the sudden and short-term increase in emissivity in the innermost region of the accretion disk. It is found that the flux of the photon ring increases simultaneously as the flux of the direct ring, which brightens first, decreases, and then gradually diminishes, when the increase in emissivity persists for $15 t_{\rm g}$ with $t_{\rm g}$ being the light crossing time of the gravitational radius. The direct ring is formed by photons emitted from the vicinity of the innermost region of the disk and traveling directly to the observer without orbiting around the black hole, while the photon ring is formed by photons passing near the spherical photon orbit. The time-averaged width of the dark region between the direct ring and the photon ring (dark crescent) becomes thinner when the spin parameter is higher and the increase in the emissivity of the accretion disk is greater. The time variation of two rings also causes the intensity-weighted center to oscillate both in the direction of the black hole's angular momentum vector projected onto the screen ($Y$-direction) and in the perpendicular direction ($X$-direction). The amplitude of oscillatory time variation in the $X$-direction becomes large when the spin parameter is higher, and that in the $Y$-direction becomes large when the increase in the emissivity of the disk is large. The spin parameter can be estimated by combining the time-averaged dark crescent width and the ratio of the amplitudes in the $X$- and $Y$-directions. This method is applicable when the duration of the increase in emissivity of the accretion disk ranges at least from approximately 10-20 $t_{\rm g}$.</p>
-                </div>
-                <div>
-                    <a href="https://arxiv.org/abs/2511.18410v1" target="_blank">View on arXiv</a>
-                    <a href="https://arxiv.org/pdf/2511.18410v1" target="_blank">PDF</a>
-                </div>
-                <hr>
-            </div>
-            
-            <div>
-                <h3>General relativistic Lagrangian continuum theories -- Part II: electromagnetic fluids and solids with junction conditions</h3>
-                <div>
-                    <p><i>Francçois Gay-Balmaz</i></p>
-                    <p><b>Published: 2025-11-23</b></p>
-                </div>
-                <div>
-            <p>Categories: math-ph</p>
-                </div>
-                <div>
-                    <p>We develop a covariant variational framework for relativistic electromagnetic continua (fluids and solid) based on Hamilton's principle formulated directly in the material description. The approach extends the geometric theory of relativistic continua introduced in Part I to include polarization, magnetization, and general elastic-electromagnetic coupling through a unified energy functional. By exploiting spacetime and material covariance, the framework yields the corresponding spacetime and convective variational principles, together with transparent expressions for the stress-energy-momentum tensor and the covariant Euler-type balance equations governing nonlinear electromagnetic continua. Coupling to general relativity is naturally incorporated, and when the action is augmented with Gibbons-Hawking-York boundary terms, the gravitational and electromagnetic junction conditions follow directly from the variational formulation. The results provide a coherent foundation for modeling nonlinear electromagnetic continua in relativistic regimes, with relevance to astrophysical systems where relativistic continuum dynamics and electromagnetic fields are known to be strongly coupled, such as neutron-star crusts, magnetar flares, relativistic jets, and accretion disks. We also offer systematic connections with several formulations appearing in the existing literature.</p>
-                </div>
-                <div>
-                    <a href="https://arxiv.org/abs/2511.18383v1" target="_blank">View on arXiv</a>
-                    <a href="https://arxiv.org/pdf/2511.18383v1" target="_blank">PDF</a>
-                </div>
-                <hr>
-            </div>
-            
-            <div>
-                <h3>Violations of the Weak Energy Condition for Lentz Warp Drives</h3>
-                <div>
-                    <p><i>Bill Celmaster, Steve Rubin</i></p>
-                    <p><b>Published: 2025-11-23</b></p>
-                </div>
-                <div>
-            <p>Categories: gr-qc</p>
-                </div>
-                <div>
-                    <p>Warp drive spacetimes capable of superluminal transportation, were first introduced in 1994 by Miguel Alcubierre and then generalized by others. These spacetimes violated the Weak Energy Condition (WEC). Lentz proposed a new type of warp drive in 2020. It was claimed that this warp spacetime has non-negative energy density and can therefore be sourced by a classical plasma. We demonstrate that Lentz's claim is incorrect. We begin with a direct calculation of the energy-momentum tensor of Lentz's warp drive in a Eulerian reference frame, and show that there are spacetime regions where the energy density is negative. We then examine the theoretical basis of Lentz's investigation and identify several derivation errors. The derivation errors can be somewhat ameliorated with a modified version of Lentz's geometry, which more closely respects the equalities and inequalities discussed by Lentz. Even so, we show that the modified geometry still violates the WEC even in the Eulerian reference frame. We conclude with a brief discussion of no-go theorems and their relationship to geometries of the kind proposed by Lentz.</p>
-                </div>
-                <div>
-                    <a href="https://arxiv.org/abs/2511.18251v1" target="_blank">View on arXiv</a>
-                    <a href="https://arxiv.org/pdf/2511.18251v1" target="_blank">PDF</a>
                 </div>
                 <hr>
             </div>
