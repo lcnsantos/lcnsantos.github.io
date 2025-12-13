@@ -8,7 +8,7 @@ author_profile: true
 <ol>
   <li><a href="https://doi.org/10.1016/j.aop.2025.170316" target="_blank">Scalar bosons in the context of gravity’s rainbow in the double defect spacetime</a><br>
       <strong>JOURNAL:</strong> Annals of Physics<br>
-      <strong>Year:</strong> 2025
+      <strong>Year:</strong> 2026
   </li>
   <li><a href="https://doi.org/10.1140/epjc/s10052-025-14784-9" target="_blank">Constraining the generalized Tolman–Oppenheimer–Volkoff (GTOV) equation with Bayesian analysis</a><br>
       <strong>JOURNAL:</strong> The European Physical Journal C<br>
