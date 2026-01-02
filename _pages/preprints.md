@@ -1874,42 +1874,4 @@ author_profile: true
                 </div>
                 <hr>
             </div>
-            
-            <div>
-                <h3>Thick brane in Palatini formalism with a non-minimally coupled bulk scalar field</h3>
-                <div>
-                    <p><i>Tahereh Azizi, Mojtaba Alimoradi</i></p>
-                    <p><b>Published: 2025-12-26</b></p>
-                </div>
-                <div>
-            <p>Categories: gr-qc</p>
-                </div>
-                <div>
-                    <p>We study a thick brane scenario within the Palatini formulation of gravity, where the metric and affine connection are treated as independent variables. By introducing a non-minimal coupling between a bulk scalar field and the Ricci scalar, we obtain analytic solutions under a flat, four-dimensional Poincaré-invariant metric with a kink-like scalar configuration. The warp factor exhibits a bell-shaped profile, while the scalar potential forms a symmetric volcano-like structure, characteristic of a finite-thickness brane. The corresponding energy density is regular and localized, featuring a central peak with symmetrically placed negative minima. Through the analysis of linear tensor perturbations, we derive a Schrödinger-like equation with supersymmetric factorization, ensuring the absence of tachyonic modes and thus the stability of the background configuration. The effective potential also takes a volcano-like form that supports a localized graviton zero mode, confirming the recovery of four-dimensional gravity on the brane. A numerical study of the massive Kaluza--Klein spectrum reveals the progressive delocalization of massive modes into the bulk.   Our results demonstrate a stable and physically consistent thick brane configuration within the Palatini gravity framework, offering new insights into gravity localization and braneworld phenomenology.</p>
-                </div>
-                <div>
-                    <a href="https://arxiv.org/abs/2512.22405v1" target="_blank">View on arXiv</a>
-                    <a href="https://arxiv.org/pdf/2512.22405v1" target="_blank">PDF</a>
-                </div>
-                <hr>
-            </div>
-            
-            <div>
-                <h3>Canonical description of Pontryagin and Euler classes with a Barbero-Immirzi parameter</h3>
-                <div>
-                    <p><i>Alberto Escalante, Edmundo Suárez-Polo, Luis A. Huerta-del Campo</i></p>
-                    <p><b>Published: 2025-12-26</b></p>
-                </div>
-                <div>
-            <p>Categories: gr-qc</p>
-                </div>
-                <div>
-                    <p>A detailed canonical analysis for Pontryagin and Euler classes with a Barbero-Immirzi [BI] parameter is developed. We rewrite the topological invariants by introducing a set of Holst-like variables, and then study the set of all constraints. We report the complete canonical structure and the symmetries of the theory; we count the physical degrees of freedom and identify reducibility conditions among the constraints. In addition, in our results, if we consider the $BI$ parameter takes the value of $γ= \pm i $, then the self-dual representation of these invariants is reproduced. Finally, we couple the invariants to the Holst action and explore the canonical analysis.</p>
-                </div>
-                <div>
-                    <a href="https://arxiv.org/abs/2512.22400v1" target="_blank">View on arXiv</a>
-                    <a href="https://arxiv.org/pdf/2512.22400v1" target="_blank">PDF</a>
-                </div>
-                <hr>
-            </div>
             </div>
