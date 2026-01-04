@@ -945,25 +945,6 @@ author_profile: true
             </div>
             
             <div>
-                <h3>Strongly Coupled Sectors in Inflation: Gapped Theories of Unparticles</h3>
-                <div>
-                    <p><i>Yikun Jiang, Guilherme L. Pimentel, Chen Yang</i></p>
-                    <p><b>Published: 2025-12-29</b></p>
-                </div>
-                <div>
-            <p>Categories: hep-th</p>
-                </div>
-                <div>
-                    <p>We consider a novel scenario for a strongly coupled spectator sector during inflation, that of a higher dimensional conformal field theory with large anomalous dimensions -- ``unparticles" -- and compactify the extra dimensions. More specifically, we take generalized free fields in five dimensions, where the extra dimension is compactified to a circle. Due to the usual Kaluza-Klein mechanism, the resulting excitations carry properties of both particles and unparticles, so we dub this scenario ``gapped unparticles". We derive a two-point function of the gapped unparticles by performing dimensional reduction. We then compute, in the collapsed limit, the four-point correlation function of conformally coupled scalars exchanging a gapped unparticle, which are used as seed functions to obtain the correlation function of primordial density perturbations. The phenomenology of the resulting correlators presents some novel features, such as oscillations with an envelope controlled by the anomalous dimension, rather than the usual value of 3/2. Depending on the value of the five-dimensional scaling dimension and effective mass of the gapped unparticles, we find a clear strategy to distinguish gapped unparticles from heavy massive scalars. If we assume the interactions are localized on a brane, gapped unparticles with different effective masses will share a universal coupling, and their exchanges produce an interesting interference pattern.</p>
-                </div>
-                <div>
-                    <a href="https://arxiv.org/abs/2512.23796v1" target="_blank">View on arXiv</a>
-                    <a href="https://arxiv.org/pdf/2512.23796v1" target="_blank">PDF</a>
-                </div>
-                <hr>
-            </div>
-            
-            <div>
                 <h3>Correlators are simpler than wavefunctions</h3>
                 <div>
                     <p><i>Nima Arkani-Hamed, Ross Glew, Francisco Vazão</i></p>
@@ -978,6 +959,25 @@ author_profile: true
                 <div>
                     <a href="https://arxiv.org/abs/2512.23795v1" target="_blank">View on arXiv</a>
                     <a href="https://arxiv.org/pdf/2512.23795v1" target="_blank">PDF</a>
+                </div>
+                <hr>
+            </div>
+            
+            <div>
+                <h3>Strongly Coupled Sectors in Inflation: Gapped Theories of Unparticles</h3>
+                <div>
+                    <p><i>Yikun Jiang, Guilherme L. Pimentel, Chen Yang</i></p>
+                    <p><b>Published: 2025-12-29</b></p>
+                </div>
+                <div>
+            <p>Categories: hep-th</p>
+                </div>
+                <div>
+                    <p>We consider a novel scenario for a strongly coupled spectator sector during inflation, that of a higher dimensional conformal field theory with large anomalous dimensions -- ``unparticles" -- and compactify the extra dimensions. More specifically, we take generalized free fields in five dimensions, where the extra dimension is compactified to a circle. Due to the usual Kaluza-Klein mechanism, the resulting excitations carry properties of both particles and unparticles, so we dub this scenario ``gapped unparticles". We derive a two-point function of the gapped unparticles by performing dimensional reduction. We then compute, in the collapsed limit, the four-point correlation function of conformally coupled scalars exchanging a gapped unparticle, which are used as seed functions to obtain the correlation function of primordial density perturbations. The phenomenology of the resulting correlators presents some novel features, such as oscillations with an envelope controlled by the anomalous dimension, rather than the usual value of 3/2. Depending on the value of the five-dimensional scaling dimension and effective mass of the gapped unparticles, we find a clear strategy to distinguish gapped unparticles from heavy massive scalars. If we assume the interactions are localized on a brane, gapped unparticles with different effective masses will share a universal coupling, and their exchanges produce an interesting interference pattern.</p>
+                </div>
+                <div>
+                    <a href="https://arxiv.org/abs/2512.23796v1" target="_blank">View on arXiv</a>
+                    <a href="https://arxiv.org/pdf/2512.23796v1" target="_blank">PDF</a>
                 </div>
                 <hr>
             </div>
@@ -1377,272 +1377,6 @@ author_profile: true
                 <div>
                     <a href="https://arxiv.org/abs/2512.23279v1" target="_blank">View on arXiv</a>
                     <a href="https://arxiv.org/pdf/2512.23279v1" target="_blank">PDF</a>
-                </div>
-                <hr>
-            </div>
-            
-            <div>
-                <h3>Lense-Thirring Acoustic Black Holes : Shadows and Light</h3>
-                <div>
-                    <p><i>Anas El Balali, Alessio Marrani</i></p>
-                    <p><b>Published: 2025-12-28</b></p>
-                </div>
-                <div>
-            <p>Categories: gr-qc</p>
-                </div>
-                <div>
-                    <p>We introduce the Lense-Thirring Acoustic Black Hole (LTABH), motivated by the relevance of analogue models for black holes embedded in various physical systems, such as the cosmological microwave background or quantum superfluids. We investigate the LTABH spacetime geometry, showing that the roots of the metric function determine a partition of the spacetime into four regions, depending on the acoustic parameter $ξ$ (whereas the dependence vanishes for the rotation parameter $a$); on the other hand, the parameter $a$ turns out to affect the critical radii associated to the maxima of the effective potential. All in all, both the acoustic sphere radius $r_{as}$ and the photon sphere radius $r_{ps}$, respectively giving rise to the acoustic shadow $R_{as}$ and to the optical shadow $R_{s}$, depend on $ξ$ and $a$. More precisely, the rotation parameter $a$ is more relevantly affecting $R_{s}$ (through a right shift), while $R_{as}$ retains its circular shape. For what concerns the acoustic parameter, we notice that the higher $ξ$ is, the larger the size of both shadows. All of these results are confirmed through a detailed analysis of the distortions and of the shadows radii. Moreover, by deriving the magnitude of the precession frequency $Ω$, we observe that it significantly increases near the acoustic horizons, both in the extremal and in the non-extremal cases, which implies that the Lense-Thirring (frame dragging) effect, which can be traced back to $ξ$ itself, becomes important near such regions. On the other hand, we also show that there are regions of the LTABH spacetime in which $% Ω$ vanishes, suggesting that therein possible probe particles would not be affected by the frame dragging at all. Finally, we derive the deflection of the light near the LTABH.</p>
-                </div>
-                <div>
-                    <a href="https://arxiv.org/abs/2512.23113v1" target="_blank">View on arXiv</a>
-                    <a href="https://arxiv.org/pdf/2512.23113v1" target="_blank">PDF</a>
-                </div>
-                <hr>
-            </div>
-            
-            <div>
-                <h3>Scalar-Field Wave Dynamics and Quasinormal Modes of the Teo Rotating Wormhole</h3>
-                <div>
-                    <p><i>Ramesh Radhakrishnan, Gerald Cleaver, Delaram Mirfendereski, Eric Davis, Claudio Cremaschini</i></p>
-                    <p><b>Published: 2025-12-28</b></p>
-                </div>
-                <div>
-            <p>Categories: gr-qc</p>
-                </div>
-                <div>
-                    <p>We analyze scalar field perturbations of the rotating Teo wormhole and compute its quasinormal mode (QNM) spectrum using WKB methods in a fully horizonless geometry. The Klein Gordon equation separates and yields a Schrödinger type radial equation with a single, smooth potential barrier shaped by the localized frame dragging profile of the wormhole throat. This barrier supports damped oscillatory modes across the full spin range examined. The resulting QNM spectrum exhibits a coherent and monotonic dependence on rotation. As the spin increases, both the oscillation frequency and the damping rate decrease, indicating progressively longer-lived modes in the absence of horizon induced absorption. In the eikonal limit, we extract the photon-ring radius, orbital frequency, and Lyapunov exponent, and verify the standard QNM-Eikonal correspondence. Comparison with Kerr black holes reveals qualitative differences. Whereas Kerr QNMs are governed by horizon absorption and exhibit symmetric prograde/retrograde mode splitting, the Teo wormhole displays a stronger but spatially confined spin response, partial reflection at the throat, and a distinctive one-sided splitting that saturates rapidly with increasing spin. Although the rotating Teo wormhole admits an ergoregion and superradiant compatible frequency kinematics, the absence of an event horizon or dissipative boundary prevents classical superradiant amplification. These results demonstrate how rotation and boundary conditions jointly shape wave propagation in horizonless compact objects and provide characteristic spectral signatures distinguishing rotating wormholes from Kerr black holes.</p>
-                </div>
-                <div>
-                    <a href="https://arxiv.org/abs/2512.23104v1" target="_blank">View on arXiv</a>
-                    <a href="https://arxiv.org/pdf/2512.23104v1" target="_blank">PDF</a>
-                </div>
-                <hr>
-            </div>
-            
-            <div>
-                <h3>Two birds with one stone: simultaneous realization of both Lunar Coordinate Time and lunar geoid time by a single orbital clock</h3>
-                <div>
-                    <p><i>Tian-Ning Yang, Ren-Fang Geng, Jing Zhang, Chong Yang, Yong Huang, Yi Xie</i></p>
-                    <p><b>Published: 2025-12-28</b></p>
-                </div>
-                <div>
-            <p>Categories: astro-ph.IM</p>
-                </div>
-                <div>
-                    <p>Context. Among options for definition of the lunar reference time, the option taking Lunar Coordinate Time (O1) has its simplicity but cannot be realized by any clock without steering, while another option adopting the lunar geoid (selenoid) proper time (O2) has its convenience for users on the lunar surface but would bring a new scaling of spatial coordinates and mass parameter of the Moon. Aims. We propose a ''time aligned orbit'' that the readings of an ideal clock in this orbit could equal to the selenoid proper time in O2 and these readings could be converted to Lunar Coordinate Time in O1 by a known linear transformation. Methods. We show that there exist the time aligned orbit around the Moon with its semi-major axis of about 1.5 lunar radius slightly depending on its inclination. We conduct a set of numerical simulations to assess to what extent a clock on these orbits could realize O2 in a more realistic lunar environment. Results. We find that the proper time in our simulations would desynchronize from the selenoid proper time up to 190 ns after a year with a frequency offset of 6E-15, which is solely 3.75% of the frequency difference in O2 caused by the lunar surface topography. These numbers might be further reduced to 13 ns and 4E-16, if we could account for the deviation of the mean orbits in our simulations from the nominal ones. Conclusions. One might simultaneously realize O1 and O2 by deployment of a single clock in the time aligned orbit. This approach also has its scalability for other terrestrial planets beyond the Earth-Moon system.</p>
-                </div>
-                <div>
-                    <a href="https://arxiv.org/abs/2512.23098v1" target="_blank">View on arXiv</a>
-                    <a href="https://arxiv.org/pdf/2512.23098v1" target="_blank">PDF</a>
-                </div>
-                <hr>
-            </div>
-            
-            <div>
-                <h3>Reconstructing Relativistic Magnetohydrodynamics with Physics-Informed Neural Networks</h3>
-                <div>
-                    <p><i>Corwin Cheung, Marcos Johnson-Noya, Michael Xiang, Dominic Chang, Alfredo Guevara</i></p>
-                    <p><b>Published: 2025-12-28</b></p>
-                </div>
-                <div>
-            <p>Categories: physics.comp-ph</p>
-                </div>
-                <div>
-                    <p>We construct the first physics-informed neural-network (PINN) surrogates for relativistic magnetohydrodynamics (RMHD) using a hybrid PDE and data-driven workflow. Instead of training for the conservative form of the equations, we work with Jacobians or PDE characteristics directly in terms of primitive variables. We further add to the trainable system the divergence-free condition, without the need of cleaning modes. Using a novel MUON optimizer implementation, we show that a baseline PINN trained on early-time snapshots can extrapolate RMHD dynamics in one and two spatial dimensions, and that posterior residual-guided networks can systematically reduce PDE violations.</p>
-                </div>
-                <div>
-                    <a href="https://arxiv.org/abs/2512.23057v1" target="_blank">View on arXiv</a>
-                    <a href="https://arxiv.org/pdf/2512.23057v1" target="_blank">PDF</a>
-                </div>
-                <hr>
-            </div>
-            
-            <div>
-                <h3>Mini-review on the production of Primordial Black Holes from First-Order Phase Transitions in the Early Universe</h3>
-                <div>
-                    <p><i>Indra Kumar Banerjee, Ujjal Kumar Dey, Shaaban Khalil</i></p>
-                    <p><b>Published: 2025-12-28</b></p>
-                </div>
-                <div>
-            <p>Categories: hep-ph</p>
-                </div>
-                <div>
-                    <p>We review the creation mechanism of primordial black holes from first order phase transitions. We discuss various model-dependent and independent mechanisms and relate the properties of these mechanisms to the properties of primordial black holes. For each of these mechanisms, we provide model-specific examples.</p>
-                </div>
-                <div>
-                    <a href="https://arxiv.org/abs/2512.22989v1" target="_blank">View on arXiv</a>
-                    <a href="https://arxiv.org/pdf/2512.22989v1" target="_blank">PDF</a>
-                </div>
-                <hr>
-            </div>
-            
-            <div>
-                <h3>Gravitational Noether-Ward identities for scalar field</h3>
-                <div>
-                    <p><i>Tomislav Prokopec</i></p>
-                    <p><b>Published: 2025-12-28</b></p>
-                </div>
-                <div>
-            <p>Categories: gr-qc</p>
-                </div>
-                <div>
-                    <p>We consider the gravitational Noether-Ward identities for the evolution of general metric perturbations on quantum matter backgrounds. In this work we consider Einstein's gravity covariantly coupled to a massive, non-minimally coupled, quantum scalar field in general curved backgrounds. We find that each term in the equation of motion for gravitational perturbations satisfies its own Noether-Ward identity. Even though each term is non-transverse, the whole equation of motion maintains transversality. In particular, each counterterm needed to renormalize the graviton self-energy satisfies its own Noether identity, and we derive the explicit form for each. Finally, in order to understand how the Noether-Ward identities are affected by the definition of the metric perturbation, we consider two inequivalent definitions of metric perturbations and derive the Noether-Ward identities for both definitions. This implies that there are Noether-Ward identities for every definition of the metric perturbation.</p>
-                </div>
-                <div>
-                    <a href="https://arxiv.org/abs/2512.22958v1" target="_blank">View on arXiv</a>
-                    <a href="https://arxiv.org/pdf/2512.22958v1" target="_blank">PDF</a>
-                </div>
-                <hr>
-            </div>
-            
-            <div>
-                <h3>Colloquium: Multimessenger astronomy with continuous gravitational waves and future detectors</h3>
-                <div>
-                    <p><i>Benjamin J. Owen</i></p>
-                    <p><b>Published: 2025-12-28</b></p>
-                </div>
-                <div>
-            <p>Categories: gr-qc</p>
-                </div>
-                <div>
-                    <p>Continuous gravitational waves from rapidly rotating neutron stars are on the new frontiers of gravitational wave astrophysics and have strong connections to electromagnetic astronomy, nuclear astrophysics, and condensed matter physics. In this Colloquium I survey prospects for detection of continuous gravitational waves from various neutron star populations, especially aided by electromagnetic observations. Although there are caveats, current theories and observations suggest that the first detections are likely within a few years, and that many are likely in the era of next generation detectors such as Cosmic Explorer and the Einstein Telescope. I also survey what can be learned from these signals, each one of which will contain more cycles than all the compact binary mergers ever detected. Since continuous gravitational wave emission mechanisms depend on aspects of neutron star physics, such as crustal elasticity, which are not well constrained by current astronomical observations and physical experiments, their detection can tell us a great deal that is new about extreme matter. Even more can be learned by combining gravitational wave observations with data from the Square Kilometre Array, the Next Generation Very Large Array, FAST, and other electromagnetic detectors operating in the next generation era.</p>
-                </div>
-                <div>
-                    <a href="https://arxiv.org/abs/2512.22945v1" target="_blank">View on arXiv</a>
-                    <a href="https://arxiv.org/pdf/2512.22945v1" target="_blank">PDF</a>
-                </div>
-                <hr>
-            </div>
-            
-            <div>
-                <h3>Multi-messenger detectability of continuous gravitational waves from the near future to next generation detectors</h3>
-                <div>
-                    <p><i>Benjamin J. Owen, Binod Rajbhandari</i></p>
-                    <p><b>Published: 2025-12-28</b></p>
-                </div>
-                <div>
-            <p>Categories: gr-qc</p>
-                </div>
-                <div>
-                    <p>Continuous gravitational waves have the potential to transform gravitational wave astronomy and yield fresh insights into astrophysics, nuclear and particle physics, and condensed matter physics. We evaluate their detectability by combining various theoretical and observational arguments from the literature and systematically applying those arguments to known astronomical objects and future gravitational wave detectors. We detail and update previous estimates made in support of Cosmic Explorer [M. Evans et al., arXiv:2306.13745; I. Gupta et al., Class. Quantum Grav. 41, 245001 (2024)]. It is commonly argued that the spins of accreting neutron stars are regulated by gravitational wave emission and that millisecond pulsars contain a young pulsar's magnetic field buried under accreted material. If either of these arguments holds, the first detection of continuous gravitational waves is likely with near future upgrades of current detectors, and many detections are likely with next generation detectors such as Cosmic Explorer and the Einstein Telescope. A lack of detections in the next several years would begin to raise serious doubts about current theories of millisecond pulsar formation.</p>
-                </div>
-                <div>
-                    <a href="https://arxiv.org/abs/2512.22938v1" target="_blank">View on arXiv</a>
-                    <a href="https://arxiv.org/pdf/2512.22938v1" target="_blank">PDF</a>
-                </div>
-                <hr>
-            </div>
-            
-            <div>
-                <h3>A Geometric Area Bound for Information Transfer Through Semiclassical Traversable Wormholes</h3>
-                <div>
-                    <p><i>Fuat Berkin Altunkaynak, Aslı Tuncer</i></p>
-                    <p><b>Published: 2025-12-28</b></p>
-                </div>
-                <div>
-            <p>Categories: gr-qc</p>
-                </div>
-                <div>
-                    <p>We prove a rigorous geometric bound on the transmission of quantum information through semiclassical traversable wormholes. We initially prove an area theorem showing that the minimal throat surface of a traversable wormhole cannot increase using Raychaudhuri's equation together with the null energy condition for the infalling matter. Then, the max-flow in the bit-thread picture, which corresponds to the initial minimal throat area, is shown to set the upper bound on information transfer. We also discuss two glued HaPPY codes as a toy model for a wormhole.</p>
-                </div>
-                <div>
-                    <a href="https://arxiv.org/abs/2512.22928v1" target="_blank">View on arXiv</a>
-                    <a href="https://arxiv.org/pdf/2512.22928v1" target="_blank">PDF</a>
-                </div>
-                <hr>
-            </div>
-            
-            <div>
-                <h3>Primordial black holes within Higgs hybrid metric-Palatini approach</h3>
-                <div>
-                    <p><i>Brahim Asfour, Farida Bargach, Yahya Ladghami, Ahmed Errahmani, Taoufik Ouali</i></p>
-                    <p><b>Published: 2025-12-28</b></p>
-                </div>
-                <div>
-            <p>Categories: astro-ph.CO</p>
-                </div>
-                <div>
-                    <p>In this paper, we investigate the production of primordial black holes (PBHs) during the radiation-dominated era. The collapse of significant density perturbations originating from large primordial scalar fluctuations generated during inflation can lead to the formation of primordial black holes. In our study, we adopt the Higgs hybrid metric-Palatini model as our framework, in which the inflaton field and the Palatini curvature are non-minimally coupled. To achieve our objective, we analyze the behavior of the primordial curvature power spectrum, which exhibits a large enhancement at small scales corresponding to large wavenumbers $k$. Furthermore, we examine the probability of PBHs formation by studying the mass variance, $σ(M_{PBH})$, and the mass fraction of the total energy density collapsing into PBHs, $β(M_{PBH})$. The evolution of both functions is consistent with current observational constraints. Finally, we investigate the abundance of primordial black holes as a dark matter candidate. We found that they can account for the totality or a fraction of the current dark matter content, depending primarily on the values of the coupling constant and the e-folds number.</p>
-                </div>
-                <div>
-                    <a href="https://arxiv.org/abs/2512.22924v1" target="_blank">View on arXiv</a>
-                    <a href="https://arxiv.org/pdf/2512.22924v1" target="_blank">PDF</a>
-                </div>
-                <hr>
-            </div>
-            
-            <div>
-                <h3>Topological Complex Analysis of Kerr--Newman Black Hole Microstructure in f(R) Gravity</h3>
-                <div>
-                    <p><i>Wen-Xiang Chen</i></p>
-                    <p><b>Published: 2025-12-28</b></p>
-                </div>
-                <div>
-            <p>Categories: gr-qc</p>
-                </div>
-                <div>
-                    <p>We investigate the microstructure of Kerr Newman black holes in modified gravity of the f(R) type using a topological complex analytic framework inspired by holography. In this approach, black hole microstates are identified with singularities of an analytically continued partition function, and the entropy is obtained from residues weighted by winding numbers. We show that the microstructure is characterized by a discrete topological index, which encodes both horizon structure and thermodynamic stability. Non extremal Kerr Newman black holes with both inner and outer horizons correspond to a vanishing topological index, while single horizon configurations correspond to a positive unit topological index. An explicit Starobinsky type modified gravity model demonstrates that this classification is robust under changes to the gravitational sector. We further discuss the limitations of the analytic continuation procedure and suggest that this topological classification may indicate a form of phase protection in black hole thermodynamics.</p>
-                </div>
-                <div>
-                    <a href="https://arxiv.org/abs/2512.22853v1" target="_blank">View on arXiv</a>
-                    <a href="https://arxiv.org/pdf/2512.22853v1" target="_blank">PDF</a>
-                </div>
-                <hr>
-            </div>
-            
-            <div>
-                <h3>Physical constraints on the MSS chaos-bound in black hole spacetimes</h3>
-                <div>
-                    <p><i>Terkaa Victor Targema, Kazuharu Bamba, Riasat Ali, Usman Zafar</i></p>
-                    <p><b>Published: 2025-12-28</b></p>
-                </div>
-                <div>
-            <p>Categories: hep-th</p>
-                </div>
-                <div>
-                    <p>Chaotic motion near black holes has recently been examined through the lens of the Maldacena-Shenker-Stanford (MSS) chaos-bound, but reported violations remain contradictory. A major source of this ambiguity lies in the common practice of treating the angular momentum of test particles as a freely adjustable parameter, rather than a quantity fixed by the circular-orbit conditions. In this work, we develop a fully constrained framework in which the angular momentum of particles is determined exactly from the underlying geometry and is used consistently in both the orbital and Lyapunov analyses. For the charged Kiselev black hole, previously reported chaos-bound violations disappear under a consistent treatment of angular momentum, indicating that these effects are apparent rather than physical. This inference is reinforced by the exact agreement between our results and the standard circular-orbit condition obtained from the effective-potential approach. By extending the analysis to geometries containing higher-order curvature terms, we find genuine chaos-bound violations at large charge-to-mass ratios, originating from curvature corrections rather than orbital parameters. This framework, therefore, provides a systematic means of distinguishing apparent from physical chaos-bound violations in Einstein gravity and its extensions.</p>
-                </div>
-                <div>
-                    <a href="https://arxiv.org/abs/2512.22834v1" target="_blank">View on arXiv</a>
-                    <a href="https://arxiv.org/pdf/2512.22834v1" target="_blank">PDF</a>
-                </div>
-                <hr>
-            </div>
-            
-            <div>
-                <h3>Polarized image of an equatorial emitting ring around a Konoplya-Zhidenko rotating non-Kerr black hole</h3>
-                <div>
-                    <p><i>Xin Qin, Fen Long, Songbai Chen, Jiliang Jing</i></p>
-                    <p><b>Published: 2025-12-28</b></p>
-                </div>
-                <div>
-            <p>Categories: gr-qc</p>
-                </div>
-                <div>
-                    <p>We investigate the polarized images of an equatorial emitting ring around a Konoplya-Zhidenko rotating non-Kerr black hole, which introduces an additional deformation parameter. The deformation parameter $η$ allows the spin parameter to extend beyond the bounds imposed by the standard Kerr black hole. The results indicate that the polarized images depend not only on the magnetic field configuration, fluid velocity, and observer inclination angle, but also on the deformation parameter and the spin parameter. As the deformation parameter increases, the polarization intensity decreases monotonically when the magnetic field lies in the equatorial plane, whereas it does not vary monotonically when the magnetic field is perpendicular to the equatorial plane. The variation of the electric vector position angle with the deformation parameter is complex. For a fixed deformation parameter, the polarization intensity exhibits a non-monotonic dependence on the spin parameter and varies with azimuthal angle. We also investigate the impact of the deformation parameter on the Stokes Q-U loops. The imprint of the deformation parameter in polarized images may serve as a high-precision observational probe for detecting deviations of black hole spacetime from the Kerr geometry and testing general relativity.</p>
-                </div>
-                <div>
-                    <a href="https://arxiv.org/abs/2512.22764v1" target="_blank">View on arXiv</a>
-                    <a href="https://arxiv.org/pdf/2512.22764v1" target="_blank">PDF</a>
-                </div>
-                <hr>
-            </div>
-            
-            <div>
-                <h3>Constraining the dynamical Chern-Simons gravity with future gravitational wave detectors</h3>
-                <div>
-                    <p><i>Xinyi Che, Xiangyu Lyu, Changfu Shi</i></p>
-                    <p><b>Published: 2025-12-28</b></p>
-                </div>
-                <div>
-            <p>Categories: gr-qc</p>
-                </div>
-                <div>
-                    <p>Dynamical Chern-Simons gravity, a parity-violating modification of general relativity, is regarded as a low-energy effective theory arising from string theory. Gravitational waves provide a powerful probe for testing its predictions. However, current gravitational wave observations are unable to place meaningful constraints on this theory through phase measurements, due to limitations from detector noise and the validity requirements of the waveform models. In this paper, we conduct a comprehensive assessment of the prospects for constraining the dynamical Chern-Simons gravity with future gravitational-wave detectors using stellar mass black holes binary. We quantify how the constraining capacities vary across different detectors and source parameters, and identify the regions of parameter space that satisfy the small-coupling condition. Furthermore, by incorporating an astrophysically motivated mass distribution model for stellar mass black hole binaries, we estimate the potential of upcoming observatories.</p>
-                </div>
-                <div>
-                    <a href="https://arxiv.org/abs/2512.22762v1" target="_blank">View on arXiv</a>
-                    <a href="https://arxiv.org/pdf/2512.22762v1" target="_blank">PDF</a>
                 </div>
                 <hr>
             </div>
