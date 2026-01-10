@@ -964,25 +964,6 @@ author_profile: true
             </div>
             
             <div>
-                <h3>Curvatures and Non-metricities in the Non-Relativistic Limit of Bosonic Supergravity</h3>
-                <div>
-                    <p><i>Eric Lescano</i></p>
-                    <p><b>Published: 2026-01-06</b></p>
-                </div>
-                <div>
-            <p>Categories: hep-th</p>
-                </div>
-                <div>
-                    <p>We construct a diffeomorphism-covariant formulation of the non-relativistic (NR) limit of bosonic supergravity. This formulation is particularly useful for decomposing relativistic tensors, such as powers of the Riemann tensor, in a manifest covariant form with respect to the NR degrees of freedom. The construction is purely geometrical and is based on a torsionless connection. The non-metricities are associated with the gravitational fields of the theory, $τ_{μν}, h_{μν}, τ^{μν}$ and $h^{μν}$, and are fixed by requiring compatibility with the relativistic metric. We provide a fully covariant decomposition of the relativistic Riemann tensor, Ricci tensor, and scalar curvature. Our results establish an equivalence between the proposed construction and the intrinsic torsion framework of string Newton-Cartan geometry. We also discuss potential applications, including a manifestly diffeomorphism-covariant rewriting of the two-derivative finite bosonic supergravity Lagrangian under the NR limit, a powerful simplification in deriving bosonic $α'$-corrections under the same limit, and extensions to more general $f(R,Q)$ Newton-Cartan geometries.</p>
-                </div>
-                <div>
-                    <a href="https://arxiv.org/abs/2601.03342v1" target="_blank">View on arXiv</a>
-                    <a href="https://arxiv.org/pdf/2601.03342v1" target="_blank">PDF</a>
-                </div>
-                <hr>
-            </div>
-            
-            <div>
                 <h3>Fast frequency-domain phenomenological modeling of eccentric aligned-spin binary black holes</h3>
                 <div>
                     <p><i>Antoni Ramos-Buades, Quentin Henry, Maria Haney</i></p>
@@ -997,6 +978,25 @@ author_profile: true
                 <div>
                     <a href="https://arxiv.org/abs/2601.03340v1" target="_blank">View on arXiv</a>
                     <a href="https://arxiv.org/pdf/2601.03340v1" target="_blank">PDF</a>
+                </div>
+                <hr>
+            </div>
+            
+            <div>
+                <h3>Curvatures and Non-metricities in the Non-Relativistic Limit of Bosonic Supergravity</h3>
+                <div>
+                    <p><i>Eric Lescano</i></p>
+                    <p><b>Published: 2026-01-06</b></p>
+                </div>
+                <div>
+            <p>Categories: hep-th</p>
+                </div>
+                <div>
+                    <p>We construct a diffeomorphism-covariant formulation of the non-relativistic (NR) limit of bosonic supergravity. This formulation is particularly useful for decomposing relativistic tensors, such as powers of the Riemann tensor, in a manifest covariant form with respect to the NR degrees of freedom. The construction is purely geometrical and is based on a torsionless connection. The non-metricities are associated with the gravitational fields of the theory, $τ_{μν}, h_{μν}, τ^{μν}$ and $h^{μν}$, and are fixed by requiring compatibility with the relativistic metric. We provide a fully covariant decomposition of the relativistic Riemann tensor, Ricci tensor, and scalar curvature. Our results establish an equivalence between the proposed construction and the intrinsic torsion framework of string Newton-Cartan geometry. We also discuss potential applications, including a manifestly diffeomorphism-covariant rewriting of the two-derivative finite bosonic supergravity Lagrangian under the NR limit, a powerful simplification in deriving bosonic $α'$-corrections under the same limit, and extensions to more general $f(R,Q)$ Newton-Cartan geometries.</p>
+                </div>
+                <div>
+                    <a href="https://arxiv.org/abs/2601.03342v1" target="_blank">View on arXiv</a>
+                    <a href="https://arxiv.org/pdf/2601.03342v1" target="_blank">PDF</a>
                 </div>
                 <hr>
             </div>
