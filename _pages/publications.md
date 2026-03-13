@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 <ol>
+  <li><a href="https://doi.org/10.1103/7wsg-k9t6" target="_blank">Hyperons and Δ ’s in rotating protoneutron stars: Local properties</a><br>
+      <strong>JOURNAL:</strong> Physical Review D<br>
+      <strong>Year:</strong> 2026
+  </li>
   <li><a href="https://doi.org/10.1016/j.aop.2025.170316" target="_blank">Scalar bosons in the context of gravity’s rainbow in the double defect spacetime</a><br>
       <strong>JOURNAL:</strong> Annals of Physics<br>
       <strong>Year:</strong> 2026
