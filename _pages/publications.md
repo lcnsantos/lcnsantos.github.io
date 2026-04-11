@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 <ol>
+  <li><a href="https://doi.org/10.1140/epjc/s10052-026-15630-2" target="_blank">Scalar bosons with Coulomb potentials in a space with dual topological defects in rainbow gravity</a><br>
+      <strong>JOURNAL:</strong> The European Physical Journal C<br>
+      <strong>Year:</strong> 2026
+  </li>
   <li><a href="https://doi.org/10.1140/epjc/s10052-026-15503-8" target="_blank">Kiselev black strings in f(R, T) gravity</a><br>
       <strong>JOURNAL:</strong> The European Physical Journal C<br>
       <strong>Year:</strong> 2026
