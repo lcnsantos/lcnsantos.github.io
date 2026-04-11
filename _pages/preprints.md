@@ -1859,7 +1859,7 @@ author_profile: true
             <div>
                 <h3>Weak-Field Limits of Black Hole Metrics from the KMOC formalism: Schwarzschild, Kerr, Reissner-Nordström, and Kerr-Newman</h3>
                 <div>
-                    <p><i>Jacobo Hernández C</i></p>
+                    <p><i>Jacobo Hernández C.</i></p>
                     <p><b>Published: 2026-04-06</b></p>
                 </div>
                 <div>
