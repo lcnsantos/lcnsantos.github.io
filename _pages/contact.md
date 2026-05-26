@@ -6,6 +6,6 @@ author_profile: true
 ---
 
 <ul>
-<li>Telefone/WhatsApp: +55 48999645992</li>
+<li>Telephone/WhatsApp: +55 48999645992</li>
 <li>E-mail: luis.santos[AT]ufsc.br<br /></li>
 </ul>
