@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Dr. Luis C. N. Santos Website"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name " Luis C. N. Santos"
 description              : &description "L. C. N. Santos Website"
 url                      : https://lcnsantos.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
