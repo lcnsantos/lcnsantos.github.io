@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 <ol>
+  <li><a href="https://doi.org/10.1016/j.physletb.2026.140620" target="_blank">Black string immersed in perfect fluid dark matter</a><br>
+      <strong>JOURNAL:</strong> Physics Letters B<br>
+      <strong>Year:</strong> 2026
+  </li>
   <li><a href="https://doi.org/10.1140/epjc/s10052-026-15630-2" target="_blank">Scalar bosons with Coulomb potentials in a space with dual topological defects in rainbow gravity</a><br>
       <strong>JOURNAL:</strong> The European Physical Journal C<br>
       <strong>Year:</strong> 2026
