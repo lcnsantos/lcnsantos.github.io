@@ -584,25 +584,6 @@ author_profile: true
             </div>
             
             <div>
-                <h3>Analytic approaches to perturbations of strongly coupled Yang-Mills plasma</h3>
-                <div>
-                    <p><i>Inês Aniceto, Paolo Arnaudo, Alex Ratcliffe, Michał Spaliński</i></p>
-                    <p><b>Published: 2026-06-10</b></p>
-                </div>
-                <div>
-            <p>Categories: hep-th</p>
-                </div>
-                <div>
-                    <p>We study perturbations of Yang-Mills plasma, represented by scalar quasinormal modes of AdS black branes, as functions of the wave number $q$ in the entire range from zero to infinity. At finite $q$, these modes can be computed by classical spectral methods based on truncating the boundary value problem. We show that this truncation admits a natural analytic interpretation in terms of quantum Seiberg--Witten periods in the Nekrasov--Shatashvili limit, with the spectral condition organised as an instanton expansion around small values of the counting parameter. The physical black-brane problem corresponds to evaluating this series at a finite value of the counting parameter, and the Seiberg--Witten formulation provides a systematic way to analyse when the truncation is under control. In particular, it reveals that, as $q$ or the mode number $N$ increases, the physical point approaches the boundary of the domain of convergence of the instanton expansion, limiting the validity of the truncation approach. We overcome this limitation through an exact WKB analysis in which $q^{-1}$ acts as the expansion parameter. The resulting exact quantisation conditions, expressed in terms of period integrals and the associated Stokes geometry, incorporate both perturbative and non-perturbative corrections. The resummed quasinormal modes remain accurate far beyond the strict large-$q$ regime and can be analytically continued all the way to $q=0$, notably by using the Seiberg--Witten approach, providing a consistent description of the QNM spectrum.</p>
-                </div>
-                <div>
-                    <a href="https://arxiv.org/abs/2606.12529v1" target="_blank">View on arXiv</a>
-                    <a href="https://arxiv.org/pdf/2606.12529v1" target="_blank">PDF</a>
-                </div>
-                <hr>
-            </div>
-            
-            <div>
                 <h3>How traversable is a traversable wormhole?</h3>
                 <div>
                     <p><i>Ben Freivogel, Alessandro Fumagalli, Marija Tomašević</i></p>
@@ -636,6 +617,25 @@ author_profile: true
                 <div>
                     <a href="https://arxiv.org/abs/2606.12531v1" target="_blank">View on arXiv</a>
                     <a href="https://arxiv.org/pdf/2606.12531v1" target="_blank">PDF</a>
+                </div>
+                <hr>
+            </div>
+            
+            <div>
+                <h3>Analytic approaches to perturbations of strongly coupled Yang-Mills plasma</h3>
+                <div>
+                    <p><i>Inês Aniceto, Paolo Arnaudo, Alex Ratcliffe, Michał Spaliński</i></p>
+                    <p><b>Published: 2026-06-10</b></p>
+                </div>
+                <div>
+            <p>Categories: hep-th</p>
+                </div>
+                <div>
+                    <p>We study perturbations of Yang-Mills plasma, represented by scalar quasinormal modes of AdS black branes, as functions of the wave number $q$ in the entire range from zero to infinity. At finite $q$, these modes can be computed by classical spectral methods based on truncating the boundary value problem. We show that this truncation admits a natural analytic interpretation in terms of quantum Seiberg--Witten periods in the Nekrasov--Shatashvili limit, with the spectral condition organised as an instanton expansion around small values of the counting parameter. The physical black-brane problem corresponds to evaluating this series at a finite value of the counting parameter, and the Seiberg--Witten formulation provides a systematic way to analyse when the truncation is under control. In particular, it reveals that, as $q$ or the mode number $N$ increases, the physical point approaches the boundary of the domain of convergence of the instanton expansion, limiting the validity of the truncation approach. We overcome this limitation through an exact WKB analysis in which $q^{-1}$ acts as the expansion parameter. The resulting exact quantisation conditions, expressed in terms of period integrals and the associated Stokes geometry, incorporate both perturbative and non-perturbative corrections. The resummed quasinormal modes remain accurate far beyond the strict large-$q$ regime and can be analytically continued all the way to $q=0$, notably by using the Seiberg--Witten approach, providing a consistent description of the QNM spectrum.</p>
+                </div>
+                <div>
+                    <a href="https://arxiv.org/abs/2606.12529v1" target="_blank">View on arXiv</a>
+                    <a href="https://arxiv.org/pdf/2606.12529v1" target="_blank">PDF</a>
                 </div>
                 <hr>
             </div>
