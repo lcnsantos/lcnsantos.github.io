@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 <ol>
+  <li><a href="https://doi.org/10.1016/j.aop.2026.170586" target="_blank">Traversable wormholes from a smoothed string fluid in 4D Einstein–Gauss–Bonnet gravity</a><br>
+      <strong>JOURNAL:</strong> Annals of Physics<br>
+      <strong>Year:</strong> 2026
+  </li>
   <li><a href="https://doi.org/10.1016/j.physletb.2026.140620" target="_blank">Black string immersed in perfect fluid dark matter</a><br>
       <strong>JOURNAL:</strong> Physics Letters B<br>
       <strong>Year:</strong> 2026
