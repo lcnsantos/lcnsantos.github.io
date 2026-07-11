@@ -1819,25 +1819,6 @@ author_profile: true
             </div>
             
             <div>
-                <h3>Finite signal-to-noise ratio bias in parameter estimation for damped oscillations: cautionary remark about catalog-level black-hole spectroscopy</h3>
-                <div>
-                    <p><i>Koutarou Kyutoku</i></p>
-                    <p><b>Published: 2026-07-06</b></p>
-                </div>
-                <div>
-            <p>Categories: gr-qc</p>
-                </div>
-                <div>
-                    <p>We investigate biases in parameter estimation for damped oscillations motivated by applications to black-hole spectroscopy in gravitational-wave physics. Focusing on the simplest model of a single-mode damped sinusoid with a fixed start time in white noise, we show that, at finite signal-to-noise ratio ρ, the damping time is biased toward larger values without being suppressed by the quality factor for two reasons. One is the gradient of the prior, through which the damping time is affected by the typically decreasing prior on the amplitude. The other is a higher-order finite-ρcorrection to the likelihood geometry. These biases arise even if the model and analysis are appropriate. Moreover, they could be exaggerated in naive joint inferences from catalog events. Quantitatively, if estimates from multiple events with ρ=10 are combined without due care, the catalog-level black-hole spectroscopy could report false violation of the Kerr hypothesis with >~100 events. We also propose simple strategies to mitigate these biases at the level of individual events.</p>
-                </div>
-                <div>
-                    <a href="https://arxiv.org/abs/2607.05486v1" target="_blank">View on arXiv</a>
-                    <a href="https://arxiv.org/pdf/2607.05486v1" target="_blank">PDF</a>
-                </div>
-                <hr>
-            </div>
-            
-            <div>
                 <h3>Three-dimensional wave optics for weak-field lensing of gravitational waves</h3>
                 <div>
                     <p><i>Mariana Carrillo-González, Alan Heavens, Lorne Whiteway</i></p>
@@ -1852,6 +1833,25 @@ author_profile: true
                 <div>
                     <a href="https://arxiv.org/abs/2607.05491v1" target="_blank">View on arXiv</a>
                     <a href="https://arxiv.org/pdf/2607.05491v1" target="_blank">PDF</a>
+                </div>
+                <hr>
+            </div>
+            
+            <div>
+                <h3>Finite signal-to-noise ratio bias in parameter estimation for damped oscillations: cautionary remark about catalog-level black-hole spectroscopy</h3>
+                <div>
+                    <p><i>Koutarou Kyutoku</i></p>
+                    <p><b>Published: 2026-07-06</b></p>
+                </div>
+                <div>
+            <p>Categories: gr-qc</p>
+                </div>
+                <div>
+                    <p>We investigate biases in parameter estimation for damped oscillations motivated by applications to black-hole spectroscopy in gravitational-wave physics. Focusing on the simplest model of a single-mode damped sinusoid with a fixed start time in white noise, we show that, at finite signal-to-noise ratio ρ, the damping time is biased toward larger values without being suppressed by the quality factor for two reasons. One is the gradient of the prior, through which the damping time is affected by the typically decreasing prior on the amplitude. The other is a higher-order finite-ρcorrection to the likelihood geometry. These biases arise even if the model and analysis are appropriate. Moreover, they could be exaggerated in naive joint inferences from catalog events. Quantitatively, if estimates from multiple events with ρ=10 are combined without due care, the catalog-level black-hole spectroscopy could report false violation of the Kerr hypothesis with >~100 events. We also propose simple strategies to mitigate these biases at the level of individual events.</p>
+                </div>
+                <div>
+                    <a href="https://arxiv.org/abs/2607.05486v1" target="_blank">View on arXiv</a>
+                    <a href="https://arxiv.org/pdf/2607.05486v1" target="_blank">PDF</a>
                 </div>
                 <hr>
             </div>
