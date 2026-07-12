@@ -1819,25 +1819,6 @@ author_profile: true
             </div>
             
             <div>
-                <h3>Three-dimensional wave optics for weak-field lensing of gravitational waves</h3>
-                <div>
-                    <p><i>Mariana Carrillo-González, Alan Heavens, Lorne Whiteway</i></p>
-                    <p><b>Published: 2026-07-06</b></p>
-                </div>
-                <div>
-            <p>Categories: gr-qc</p>
-                </div>
-                <div>
-                    <p>We develop a perturbative Green's function approach to gravitational lensing by weak gravitational potentials that need not be localized on a thin lens plane and that applies in both the wave optics and geometric optics regimes. We recast position-space integrals as Fourier, or momentum-space, integrals that appear in scattering amplitude calculations. The method gives the Born approximation directly in three dimensions and can be systematically extended to post-Born orders. For a Schwarzschild lens, we compute the leading Born term and new post-Born contributions arising from the order $\mathcal{O}(G^2)$ correction to the potential, keeping finite-distance corrections beyond the usual paraxial expansion. We show that these general-relativistic corrections are controlled by the parameter $GMω\,b/χ_{\rm eff}$ in the small-angle regime, and are therefore negligible for standard weak-lensing configurations but become relevant in more extreme geometries (such as hierarchical triples with very small source--lens separations). We also discuss higher-order Newtonian corrections, their infrared sensitivity for a long-range potential, and the regulated form of the Newtonian potential given by the Yukawa potential. Finally, we formulate the corresponding calculation in an FLRW background, identifying the leading flat-space limit and estimating the size of curvature-induced corrections including tails. This method clarifies the regime of validity of the Born, large-distance, and paraxial approximations in gravitational-wave lensing and provides a framework for treating generic lensing potentials.</p>
-                </div>
-                <div>
-                    <a href="https://arxiv.org/abs/2607.05491v1" target="_blank">View on arXiv</a>
-                    <a href="https://arxiv.org/pdf/2607.05491v1" target="_blank">PDF</a>
-                </div>
-                <hr>
-            </div>
-            
-            <div>
                 <h3>Finite signal-to-noise ratio bias in parameter estimation for damped oscillations: cautionary remark about catalog-level black-hole spectroscopy</h3>
                 <div>
                     <p><i>Koutarou Kyutoku</i></p>
@@ -1852,6 +1833,25 @@ author_profile: true
                 <div>
                     <a href="https://arxiv.org/abs/2607.05486v1" target="_blank">View on arXiv</a>
                     <a href="https://arxiv.org/pdf/2607.05486v1" target="_blank">PDF</a>
+                </div>
+                <hr>
+            </div>
+            
+            <div>
+                <h3>Three-dimensional wave optics for weak-field lensing of gravitational waves</h3>
+                <div>
+                    <p><i>Mariana Carrillo-González, Alan Heavens, Lorne Whiteway</i></p>
+                    <p><b>Published: 2026-07-06</b></p>
+                </div>
+                <div>
+            <p>Categories: gr-qc</p>
+                </div>
+                <div>
+                    <p>We develop a perturbative Green's function approach to gravitational lensing by weak gravitational potentials that need not be localized on a thin lens plane and that applies in both the wave optics and geometric optics regimes. We recast position-space integrals as Fourier, or momentum-space, integrals that appear in scattering amplitude calculations. The method gives the Born approximation directly in three dimensions and can be systematically extended to post-Born orders. For a Schwarzschild lens, we compute the leading Born term and new post-Born contributions arising from the order $\mathcal{O}(G^2)$ correction to the potential, keeping finite-distance corrections beyond the usual paraxial expansion. We show that these general-relativistic corrections are controlled by the parameter $GMω\,b/χ_{\rm eff}$ in the small-angle regime, and are therefore negligible for standard weak-lensing configurations but become relevant in more extreme geometries (such as hierarchical triples with very small source--lens separations). We also discuss higher-order Newtonian corrections, their infrared sensitivity for a long-range potential, and the regulated form of the Newtonian potential given by the Yukawa potential. Finally, we formulate the corresponding calculation in an FLRW background, identifying the leading flat-space limit and estimating the size of curvature-induced corrections including tails. This method clarifies the regime of validity of the Born, large-distance, and paraxial approximations in gravitational-wave lensing and provides a framework for treating generic lensing potentials.</p>
+                </div>
+                <div>
+                    <a href="https://arxiv.org/abs/2607.05491v1" target="_blank">View on arXiv</a>
+                    <a href="https://arxiv.org/pdf/2607.05491v1" target="_blank">PDF</a>
                 </div>
                 <hr>
             </div>
