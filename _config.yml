@@ -130,6 +130,7 @@ exclude:
   - talkmap
   - talkmap.py
   - talkmap.ipynb
+  - markdown_generator
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
