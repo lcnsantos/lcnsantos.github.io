@@ -53,12 +53,12 @@ def scholar():
         with urllib.request.urlopen(req, timeout=60) as r:
             pagina = r.read().decode("utf-8", "replace")
     except Exception as e:
-        print(f"Google Scholar indisponível: {e}")
+        print(f"::warning::Google Scholar indisponível: {e}")
         return None
     linhas = dict((rotulo, int(total)) for rotulo, total in re.findall(
         r'class="gsc_rsb_sc1"><a[^>]*>([^<]+)</a></td><td class="gsc_rsb_std">(\d+)</td>', pagina))
     if not {"Citations", "h-index", "i10-index"} <= linhas.keys():
-        print("Google Scholar: tabela de métricas não encontrada (captcha?)")
+        print("::warning::Google Scholar: tabela de métricas não encontrada (captcha?)")
         return None
     return {"citations": linhas["Citations"], "h_index": linhas["h-index"],
             "i10_index": linhas["i10-index"]}
@@ -157,6 +157,7 @@ def main():
     if s is None:  # mantém os últimos valores do Scholar já gravados
         print("metrics.json: mantido (Scholar indisponível)")
         return
+    print("::notice::Google Scholar OK: {citations} citações, h={h_index}, i10={i10_index}".format(**s))
     grava_se_mudou("metrics.json", {
         "source": "Google Scholar",
         "summary": {
