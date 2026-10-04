@@ -1,13 +1,8 @@
-"""Atualiza _data/metrics.json e _data/publications_sync.json.
+"""Atualiza _data/publications_sync.json ("Recent publications" na página inicial).
 
 A lista de artigos vem do ORCID (fonte oficial, mantida pelo autor); o
-OpenAlex fornece ano/periódico/acesso aberto de cada DOI. Citações, h-index e
-i10-index vêm do perfil público do Google Scholar (robots.txt permite
-/citations?user=); se o Scholar falhar, mantém os últimos valores obtidos.
-
-Usado pela página inicial (_pages/about.md): "Academic metrics" e
-"Recent publications". Só regrava os arquivos quando os dados mudam.
-Sem dependências externas (apenas biblioteca padrão).
+OpenAlex fornece periódico, ano e acesso aberto de cada DOI. Só regrava o
+arquivo quando os dados mudam. Sem dependências externas (biblioteca padrão).
 """
 import datetime
 import json
@@ -18,7 +13,6 @@ import urllib.request
 from pathlib import Path
 
 ORCID = "0000-0002-6129-1820"
-SCHOLAR = "https://scholar.google.com/citations?user=KorU-HsAAAAJ&hl=en"
 OPENALEX = "https://api.openalex.org"
 DATA = Path(__file__).resolve().parent.parent / "_data"
 
@@ -41,27 +35,6 @@ def get(url):
             if tentativa == 3:
                 raise
             time.sleep(5 * (tentativa + 1))
-
-
-def scholar():
-    """{'citations', 'h_index', 'i10_index'} (totais) do perfil, ou None se falhar."""
-    try:
-        req = urllib.request.Request(SCHOLAR, headers={
-            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
-                          "(KHTML, like Gecko) Chrome/130.0 Safari/537.36",
-            "Accept-Language": "en-US,en;q=0.9"})
-        with urllib.request.urlopen(req, timeout=60) as r:
-            pagina = r.read().decode("utf-8", "replace")
-    except Exception as e:
-        print(f"::warning::Google Scholar indisponível: {e}")
-        return None
-    linhas = dict((rotulo, int(total)) for rotulo, total in re.findall(
-        r'class="gsc_rsb_sc1"><a[^>]*>([^<]+)</a></td><td class="gsc_rsb_std">(\d+)</td>', pagina))
-    if not {"Citations", "h-index", "i10-index"} <= linhas.keys():
-        print("::warning::Google Scholar: tabela de métricas não encontrada (captcha?)")
-        return None
-    return {"citations": linhas["Citations"], "h_index": linhas["h-index"],
-            "i10_index": linhas["i10-index"]}
 
 
 def limpa_titulo(t):
@@ -150,23 +123,7 @@ def grava_se_mudou(nome, dados):
 
 
 def main():
-    pubs = artigos()
-    grava_se_mudou("publications_sync.json", {"source": "ORCID + OpenAlex", "works": pubs})
-
-    s = scholar()
-    if s is None:  # mantém os últimos valores do Scholar já gravados
-        print("metrics.json: mantido (Scholar indisponível)")
-        return
-    print("::notice::Google Scholar OK: {citations} citações, h={h_index}, i10={i10_index}".format(**s))
-    grava_se_mudou("metrics.json", {
-        "source": "Google Scholar",
-        "summary": {
-            "works_count": len(pubs),
-            "cited_by_count": s["citations"],
-            "h_index": s["h_index"],
-            "i10_index": s["i10_index"],
-        },
-    })
+    grava_se_mudou("publications_sync.json", {"source": "ORCID + OpenAlex", "works": artigos()})
 
 
 if __name__ == "__main__":

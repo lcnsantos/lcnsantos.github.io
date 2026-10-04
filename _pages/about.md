@@ -53,25 +53,6 @@ Over the past decade I have published more than 40 papers in journals including 
 
 ---
 
-## Academic metrics
-
-{% if site.data.metrics %}
-{% assign m = site.data.metrics.summary %}
-
-| | |
-|---|---|
-| Publications | **{{ m.works_count }}** |
-| Total citations | **{{ m.cited_by_count }}** |
-| h-index | **{{ m.h_index }}** |
-| i10-index | **{{ m.i10_index }}** |
-
-_Updated {{ site.data.metrics.updated | date: "%B %Y" }} via [Google Scholar](https://scholar.google.com/citations?user=KorU-HsAAAAJ)_
-
-{% else %}
-[Google Scholar profile](https://scholar.google.com.br/citations?user=KorU-HsAAAAJ&hl=pt-BR) · [ORCID 0000-0002-6129-1820](https://orcid.org/0000-0002-6129-1820)
-{% endif %}
-
----
 
 ## Equations I find beautiful
 

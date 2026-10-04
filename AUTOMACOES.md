@@ -21,25 +21,19 @@ Arquivo de referência (não é publicado no site; está em `exclude` no `_confi
 - **Pendências:** localizar o script e anotar aqui o local; ele cria commits vazios
   quando nada muda (item 2b) e embute imagens no `.md` (item 2c).
 
-## 2. Workflow `metrics.yml` (GitHub Actions): métricas e publicações recentes
+## 2. Workflow `metrics.yml` (GitHub Actions): publicações recentes
 
-- **O que faz:** roda `scripts/fetch_openalex.py`, que gera `_data/metrics.json`
-  ("Academic metrics" na página inicial) e `_data/publications_sync.json`
-  ("Recent publications").
-- **Fontes:**
-  - Citações, h-index e i10-index: **perfil público do Google Scholar**
-    (o robots.txt do Scholar permite `/citations?user=`). Se o Scholar bloquear
-    ou mudar o HTML, o script **mantém os últimos valores** e não quebra.
-  - Lista de artigos e contagem "Publications": **ORCID** (só obras com DOI).
-  - Periódico, ano e acesso aberto: **OpenAlex** (o perfil de autor do OpenAlex
-    inclui obras de homônimos, por isso não é usado para métricas).
-  - Citações por artigo não são exibidas (o OpenAlex fica defasado em relação ao Scholar).
+- **O que faz:** roda `scripts/fetch_openalex.py`, que gera `_data/publications_sync.json`
+  (bloco "Recent publications" da página inicial, 5 artigos mais recentes).
+- **Fontes:** lista de artigos = **ORCID** (só obras com DOI); periódico, ano e acesso
+  aberto = **OpenAlex**.
+- **Métricas acadêmicas (citações, h-index):** seção removida do site em 04/10/2026.
+  O OpenAlex fica defasado em relação ao Google Scholar, e o Scholar bloqueia (HTTP 403)
+  os servidores do GitHub Actions, então não há fonte automática confiável.
 - **Frequência:** todo dia às 09:00 UTC; também roda ao alterar o script/workflow
   e manualmente em Actions → Run workflow.
 - **Commit:** só quando os dados mudam, como `github-actions[bot]`.
 - **Token:** o `GITHUB_TOKEN` automático do Actions (nenhum segredo a configurar).
-- **Se as métricas pararem de mudar por semanas:** ver o log do workflow; a mensagem
-  "Google Scholar indisponível" indica bloqueio do Scholar aos servidores do GitHub.
 
 ## 3. Google Analytics (GA4)
 
