@@ -24,15 +24,22 @@ Arquivo de referência (não é publicado no site; está em `exclude` no `_confi
 ## 2. Workflow `metrics.yml` (GitHub Actions): métricas e publicações recentes
 
 - **O que faz:** roda `scripts/fetch_openalex.py`, que gera `_data/metrics.json`
-  (artigos, citações, h-index, i10) e `_data/publications_sync.json`
-  (lista usada em "Recent publications" na página inicial).
-- **Fonte:** lista de artigos = **ORCID** (com DOI); citações e acesso aberto = **OpenAlex**.
-  As métricas são calculadas só sobre esses artigos, porque o perfil do OpenAlex
-  inclui obras de homônimos.
+  ("Academic metrics" na página inicial) e `_data/publications_sync.json`
+  ("Recent publications").
+- **Fontes:**
+  - Citações, h-index e i10-index: **perfil público do Google Scholar**
+    (o robots.txt do Scholar permite `/citations?user=`). Se o Scholar bloquear
+    ou mudar o HTML, o script **mantém os últimos valores** e não quebra.
+  - Lista de artigos e contagem "Publications": **ORCID** (só obras com DOI).
+  - Periódico, ano e acesso aberto: **OpenAlex** (o perfil de autor do OpenAlex
+    inclui obras de homônimos, por isso não é usado para métricas).
+  - Citações por artigo não são exibidas (o OpenAlex fica defasado em relação ao Scholar).
 - **Frequência:** todo dia às 09:00 UTC; também roda ao alterar o script/workflow
-  e manualmente em Actions → "Métricas e publicações" → Run workflow.
+  e manualmente em Actions → Run workflow.
 - **Commit:** só quando os dados mudam, como `github-actions[bot]`.
 - **Token:** o `GITHUB_TOKEN` automático do Actions (nenhum segredo a configurar).
+- **Se as métricas pararem de mudar por semanas:** ver o log do workflow; a mensagem
+  "Google Scholar indisponível" indica bloqueio do Scholar aos servidores do GitHub.
 
 ## 3. Google Analytics (GA4)
 

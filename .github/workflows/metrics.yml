@@ -1,4 +1,4 @@
-name: Métricas e publicações (ORCID + OpenAlex)
+name: Métricas (Google Scholar) e publicações (ORCID + OpenAlex)
 
 on:
   schedule:
@@ -23,7 +23,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Busca dados no ORCID e OpenAlex
+      - name: Busca dados no Google Scholar, ORCID e OpenAlex
         run: python3 scripts/fetch_openalex.py
 
       - name: Commit apenas se houver mudança
@@ -34,7 +34,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "Sem mudanças."
           else
-            git commit -m "Atualiza métricas e publicações (ORCID + OpenAlex)"
+            git commit -m "Atualiza métricas (Google Scholar) e publicações (ORCID + OpenAlex)"
             git pull --rebase
             git push
           fi

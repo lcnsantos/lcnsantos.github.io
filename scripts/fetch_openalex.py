@@ -1,9 +1,9 @@
 """Atualiza _data/metrics.json e _data/publications_sync.json.
 
 A lista de artigos vem do ORCID (fonte oficial, mantida pelo autor); o
-OpenAlex fornece citações e acesso aberto de cada DOI. As métricas são
-calculadas só sobre esses artigos (o perfil de autor do OpenAlex inclui
-obras atribuídas por engano).
+OpenAlex fornece ano/periódico/acesso aberto de cada DOI. Citações, h-index e
+i10-index vêm do perfil público do Google Scholar (robots.txt permite
+/citations?user=); se o Scholar falhar, mantém os últimos valores obtidos.
 
 Usado pela página inicial (_pages/about.md): "Academic metrics" e
 "Recent publications". Só regrava os arquivos quando os dados mudam.
@@ -18,6 +18,7 @@ import urllib.request
 from pathlib import Path
 
 ORCID = "0000-0002-6129-1820"
+SCHOLAR = "https://scholar.google.com/citations?user=KorU-HsAAAAJ&hl=en"
 OPENALEX = "https://api.openalex.org"
 DATA = Path(__file__).resolve().parent.parent / "_data"
 
@@ -40,6 +41,27 @@ def get(url):
             if tentativa == 3:
                 raise
             time.sleep(5 * (tentativa + 1))
+
+
+def scholar():
+    """{'citations', 'h_index', 'i10_index'} (totais) do perfil, ou None se falhar."""
+    try:
+        req = urllib.request.Request(SCHOLAR, headers={
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+                          "(KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+            "Accept-Language": "en-US,en;q=0.9"})
+        with urllib.request.urlopen(req, timeout=60) as r:
+            pagina = r.read().decode("utf-8", "replace")
+    except Exception as e:
+        print(f"Google Scholar indisponível: {e}")
+        return None
+    linhas = dict((rotulo, int(total)) for rotulo, total in re.findall(
+        r'class="gsc_rsb_sc1"><a[^>]*>([^<]+)</a></td><td class="gsc_rsb_std">(\d+)</td>', pagina))
+    if not {"Citations", "h-index", "i10-index"} <= linhas.keys():
+        print("Google Scholar: tabela de métricas não encontrada (captcha?)")
+        return None
+    return {"citations": linhas["Citations"], "h_index": linhas["h-index"],
+            "i10_index": linhas["i10-index"]}
 
 
 def limpa_titulo(t):
@@ -97,7 +119,6 @@ def artigos():
                 "journal": limpa_periodico(src.get("display_name")),
                 "year": w.get("publication_year"),
                 "publication_date": w.get("publication_date"),
-                "cited_by_count": w.get("cited_by_count", 0),
                 "is_open_access": bool((w.get("open_access") or {}).get("is_oa")),
             }
         else:  # ainda não indexado no OpenAlex: usa só o ORCID
@@ -107,18 +128,11 @@ def artigos():
                 "journal": limpa_periodico((s.get("journal-title") or {}).get("value")),
                 "year": int(ano) if ano else None,
                 "publication_date": f"{ano}-01-01" if ano else "",
-                "cited_by_count": 0,
                 "is_open_access": False,
             }
         item["doi"] = f"https://doi.org/{doi}"
         saida.append(item)
     return sorted(saida, key=lambda x: x["publication_date"] or "", reverse=True)
-
-
-def indices(citacoes):
-    c = sorted(citacoes, reverse=True)
-    h = sum(1 for i, n in enumerate(c, 1) if n >= i)
-    return h, sum(1 for n in c if n >= 10)
 
 
 def grava_se_mudou(nome, dados):
@@ -137,18 +151,21 @@ def grava_se_mudou(nome, dados):
 
 def main():
     pubs = artigos()
-    citacoes = [p["cited_by_count"] for p in pubs]
-    h, i10 = indices(citacoes)
+    grava_se_mudou("publications_sync.json", {"source": "ORCID + OpenAlex", "works": pubs})
+
+    s = scholar()
+    if s is None:  # mantém os últimos valores do Scholar já gravados
+        print("metrics.json: mantido (Scholar indisponível)")
+        return
     grava_se_mudou("metrics.json", {
-        "source": "ORCID + OpenAlex",
+        "source": "Google Scholar",
         "summary": {
             "works_count": len(pubs),
-            "cited_by_count": sum(citacoes),
-            "h_index": h,
-            "i10_index": i10,
+            "cited_by_count": s["citations"],
+            "h_index": s["h_index"],
+            "i10_index": s["i10_index"],
         },
     })
-    grava_se_mudou("publications_sync.json", {"source": "ORCID + OpenAlex", "works": pubs})
 
 
 if __name__ == "__main__":

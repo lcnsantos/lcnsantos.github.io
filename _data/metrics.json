@@ -1,10 +1,10 @@
 {
   "updated": "2026-10-04",
-  "source": "ORCID + OpenAlex",
+  "source": "Google Scholar",
   "summary": {
     "works_count": 43,
-    "cited_by_count": 751,
-    "h_index": 15,
-    "i10_index": 22
+    "cited_by_count": 1000,
+    "h_index": 18,
+    "i10_index": 24
   }
 }

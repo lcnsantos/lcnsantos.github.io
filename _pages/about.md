@@ -34,7 +34,7 @@ Over the past decade I have published more than 40 papers in journals including 
 {% assign pubs = site.data.publications_sync.works | sort: "publication_date" | reverse %}
 {% for pub in pubs limit:5 %}
 - [{{ pub.title }}]({{ pub.doi }})  
-  **{{ pub.journal }}** · {{ pub.year }}{% if pub.cited_by_count > 0 %} · {{ pub.cited_by_count }} citations{% endif %}{% if pub.is_open_access %} · 🔓 Open Access{% endif %}
+  **{{ pub.journal }}** · {{ pub.year }}{% if pub.is_open_access %} · 🔓 Open Access{% endif %}
 {% endfor %}
 {% else %}
 - [Scalar bosons with Coulomb potentials in a space with dual topological defects in rainbow gravity](https://doi.org/10.1140/epjc/s10052-026-15630-2)  
@@ -65,10 +65,9 @@ Over the past decade I have published more than 40 papers in journals including 
 | h-index | **{{ m.h_index }}** |
 | i10-index | **{{ m.i10_index }}** |
 
-_Updated {{ site.data.metrics.updated | date: "%B %Y" }} via [OpenAlex](https://openalex.org/authors/https://orcid.org/0000-0002-6129-1820)_
+_Updated {{ site.data.metrics.updated | date: "%B %Y" }} via [Google Scholar](https://scholar.google.com/citations?user=KorU-HsAAAAJ)_
 
 {% else %}
-_Metrics loaded automatically via GitHub Actions weekly._  
 [Google Scholar profile](https://scholar.google.com.br/citations?user=KorU-HsAAAAJ&hl=pt-BR) · [ORCID 0000-0002-6129-1820](https://orcid.org/0000-0002-6129-1820)
 {% endif %}
 
