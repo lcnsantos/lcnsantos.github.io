@@ -121,8 +121,15 @@ author:
 include:
   - .htaccess
   - _pages
-  - files
 exclude:
+  # conteúdo de exemplo do template (escondido, não apagado)
+  - files/paper1.pdf
+  - files/paper2.pdf
+  - files/paper3.pdf
+  - "files/CertificadoDeConclusao_Descubra o Power BI.pdf"
+  - talkmap
+  - talkmap.py
+  - talkmap.ipynb
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
