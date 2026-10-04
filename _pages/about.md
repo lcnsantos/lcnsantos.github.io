@@ -2,11 +2,16 @@
 permalink: /
 title: "About"
 seo_title: "Luis C. N. Santos | Researcher at UFSC | Quantum and Classical Dynamics"
+translations:
+  en: /
+  pt-BR: /pt/
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
+
+<p style="text-align:right"><a href="/pt/" hreflang="pt-BR" lang="pt-BR">Versão em português</a></p>
 
 I am a theoretical physicist at the [Federal University of Santa Catarina (UFSC)](https://ufsc.br), Brazil, specializing in **General Relativity and Modified Gravity**. My research focuses on the classical and quantum dynamics of particles in curved spacetime, with particular emphasis on black hole physics, compact star structure, and extensions of General Relativity.
 
