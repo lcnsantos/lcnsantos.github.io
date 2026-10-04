@@ -80,7 +80,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  false # o GA4 (gtag.js) está direto em _layouts/default.html; "google-universal" era código obsoleto e duplicado
   google:
     tracking_id          : "G-DHC7T717QJ"
 
@@ -138,6 +138,8 @@ exclude:
   - talkmap.py
   - talkmap.ipynb
   - markdown_generator
+  - scripts
+  - AUTOMACOES.md
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache

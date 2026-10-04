@@ -1,0 +1,40 @@
+name: Métricas e publicações (ORCID + OpenAlex)
+
+on:
+  schedule:
+    - cron: "0 9 * * *"   # todo dia, 06h de Brasília
+  workflow_dispatch:       # permite rodar manualmente pela aba Actions
+  push:
+    branches: [master]
+    paths:
+      - scripts/fetch_openalex.py
+      - .github/workflows/metrics.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: metrics
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Busca dados no ORCID e OpenAlex
+        run: python3 scripts/fetch_openalex.py
+
+      - name: Commit apenas se houver mudança
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add _data/metrics.json _data/publications_sync.json
+          if git diff --cached --quiet; then
+            echo "Sem mudanças."
+          else
+            git commit -m "Atualiza métricas e publicações (ORCID + OpenAlex)"
+            git pull --rebase
+            git push
+          fi
