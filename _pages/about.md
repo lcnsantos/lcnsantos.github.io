@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "About"
+seo_title: "Luis C. N. Santos | Researcher at UFSC | Quantum and Classical Dynamics"
 author_profile: true
 redirect_from:
   - /about/
