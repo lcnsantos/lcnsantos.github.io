@@ -6,14 +6,17 @@
 {% endif %}
 {% assign seo_url = seo_url | default: site.github.url %}
 
-{% if page.seo_title %}
-  {% assign seo_title = page.seo_title %}
-{% elsif page.title %}
+{% if page.title %}
   {% assign seo_title = page.title | append: " " | append: site.title_separator | append: " " | append: site.title %}
 {% endif %}
 
 {% if seo_title %}
   {% assign seo_title = seo_title | markdownify | strip_html | strip_newlines | escape_once %}
+{% endif %}
+
+{% comment %} seo_title explícito não passa por markdownify (que apagaria os "|") {% endcomment %}
+{% if page.seo_title %}
+  {% assign seo_title = page.seo_title | escape_once %}
 {% endif %}
 
 {% if site.url %}
@@ -43,7 +46,7 @@
 
 <meta property="og:locale" content="{{ site.locale | default: "en" }}">
 <meta property="og:site_name" content="{{ site.title }}">
-<meta property="og:title" content="{{ page.seo_title | default: page.title | default: site.title | markdownify | strip_html | strip_newlines | escape_once }}">
+<meta property="og:title" content="{% if page.seo_title %}{{ page.seo_title | escape_once }}{% else %}{{ page.title | default: site.title | markdownify | strip_html | strip_newlines | escape_once }}{% endif %}">
 {% if seo_description %}
   <meta name="description" content="{{ seo_description }}">
 {% endif %}
