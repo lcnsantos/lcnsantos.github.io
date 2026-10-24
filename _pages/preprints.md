@@ -736,25 +736,6 @@ author_profile: true
             </div>
             
             <div>
-                <h3>Big Crunching Your Big Bang: Doubly Warped Time-Dependent Type II Flux Backgrounds and Scale Separation</h3>
-                <div>
-                    <p><i>Kazi Fahim Reza Arko, Walid Hasan, M. Fahim Hoque, Ahmed Rakin Kamal</i></p>
-                    <p><b>Published: 2026-10-21</b></p>
-                </div>
-                <div>
-            <p>Categories: hep-th</p>
-                </div>
-                <div>
-                    <p>We construct three analytic, doubly warped cosmological solutions of massless type IIA supergravity with different choices of fluxes, namely, $H_3$, $\tilde F_2$ and $\tilde F_4$ along internal directions. The $H_3$ solution also belongs to the common NS--NS sector of type IIB. Our solutions show that, without localised sources, nonconstant warping on a smooth compact space is possible. We derive their eleven-dimensional uplifts and four-dimensional Einstein-frame cosmology. Each universe undergoes (decelerating) expansion from a Big Bang, reaches a maximum size, and undergoes contraction towards a Big Crunch. We also analyse the scale separation of these backgrounds and find that they exhibit a small Einstein frame Hubble scale to KK mass ratio $\frac{|H_E|}{m_{\mathrm{KK}}}\ll1,$ although for a brief period of time, around the maxima of the scale factor in the Einstein frame. Finally, we analyse the supersymmetry of these backgrounds, which demonstrates that all three solutions break all forms of type IIA supersymmetry.</p>
-                </div>
-                <div>
-                    <a href="https://arxiv.org/abs/2610.30248v1" target="_blank">View on arXiv</a>
-                    <a href="https://arxiv.org/pdf/2610.30248v1" target="_blank">PDF</a>
-                </div>
-                <hr>
-            </div>
-            
-            <div>
                 <h3>From bulk flows to boundary generators and costs</h3>
                 <div>
                     <p><i>Rafael Carrasco, Carlos Pérez-Pardavila</i></p>
@@ -769,6 +750,25 @@ author_profile: true
                 <div>
                     <a href="https://arxiv.org/abs/2610.30246v1" target="_blank">View on arXiv</a>
                     <a href="https://arxiv.org/pdf/2610.30246v1" target="_blank">PDF</a>
+                </div>
+                <hr>
+            </div>
+            
+            <div>
+                <h3>Big Crunching Your Big Bang: Doubly Warped Time-Dependent Type II Flux Backgrounds and Scale Separation</h3>
+                <div>
+                    <p><i>Kazi Fahim Reza Arko, Walid Hasan, M. Fahim Hoque, Ahmed Rakin Kamal</i></p>
+                    <p><b>Published: 2026-10-21</b></p>
+                </div>
+                <div>
+            <p>Categories: hep-th</p>
+                </div>
+                <div>
+                    <p>We construct three analytic, doubly warped cosmological solutions of massless type IIA supergravity with different choices of fluxes, namely, $H_3$, $\tilde F_2$ and $\tilde F_4$ along internal directions. The $H_3$ solution also belongs to the common NS--NS sector of type IIB. Our solutions show that, without localised sources, nonconstant warping on a smooth compact space is possible. We derive their eleven-dimensional uplifts and four-dimensional Einstein-frame cosmology. Each universe undergoes (decelerating) expansion from a Big Bang, reaches a maximum size, and undergoes contraction towards a Big Crunch. We also analyse the scale separation of these backgrounds and find that they exhibit a small Einstein frame Hubble scale to KK mass ratio $\frac{|H_E|}{m_{\mathrm{KK}}}\ll1,$ although for a brief period of time, around the maxima of the scale factor in the Einstein frame. Finally, we analyse the supersymmetry of these backgrounds, which demonstrates that all three solutions break all forms of type IIA supersymmetry.</p>
+                </div>
+                <div>
+                    <a href="https://arxiv.org/abs/2610.30248v1" target="_blank">View on arXiv</a>
+                    <a href="https://arxiv.org/pdf/2610.30248v1" target="_blank">PDF</a>
                 </div>
                 <hr>
             </div>
