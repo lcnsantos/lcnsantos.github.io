@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12",
+  "updated": "2026-11-04",
   "source": "ORCID + OpenAlex",
   "works": [
     {
@@ -39,7 +39,7 @@
       "journal": "Physical Review D",
       "year": 2026,
       "publication_date": "2026-02-24",
-      "is_open_access": false,
+      "is_open_access": true,
       "doi": "https://doi.org/10.1103/7wsg-k9t6"
     },
     {
