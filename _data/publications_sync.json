@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04",
+  "updated": "2026-11-20",
   "source": "ORCID + OpenAlex",
   "works": [
     {
@@ -38,7 +38,7 @@
       "title": "Hyperons and Δ ’s in rotating protoneutron stars: Local properties",
       "journal": "Physical Review D",
       "year": 2026,
-      "publication_date": "2026-02-24",
+      "publication_date": "2026-03-12",
       "is_open_access": true,
       "doi": "https://doi.org/10.1103/7wsg-k9t6"
     },
@@ -78,7 +78,7 @@
       "title": "Hyperons and Δ ’s in rotating protoneutron stars: Global properties",
       "journal": "Physical Review D",
       "year": 2025,
-      "publication_date": "2025-06-23",
+      "publication_date": "2025-07-08",
       "is_open_access": true,
       "doi": "https://doi.org/10.1103/3djv-zbcj"
     },
@@ -94,7 +94,7 @@
       "title": "Strongly interacting quark matter in massive quark stars",
       "journal": "Classical and Quantum Gravity",
       "year": 2025,
-      "publication_date": "2025-06-05",
+      "publication_date": "2025-06-17",
       "is_open_access": true,
       "doi": "https://doi.org/10.1088/1361-6382/ade192"
     },
@@ -107,20 +107,20 @@
       "doi": "https://doi.org/10.3390/universe11050152"
     },
     {
+      "title": "Kiselev black strings: the charged rotating solutions",
+      "journal": "Classical and Quantum Gravity",
+      "year": 2025,
+      "publication_date": "2025-05-02",
+      "is_open_access": true,
+      "doi": "https://doi.org/10.1088/1361-6382/add078"
+    },
+    {
       "title": "Bound and scattering states in a spacetime with dual topological defects: cosmic string and global monopole",
       "journal": "The European Physical Journal C",
       "year": 2025,
       "publication_date": "2025-04-29",
       "is_open_access": true,
       "doi": "https://doi.org/10.1140/epjc/s10052-025-14203-z"
-    },
-    {
-      "title": "Kiselev black strings: the charged rotating solutions",
-      "journal": "Classical and Quantum Gravity",
-      "year": 2025,
-      "publication_date": "2025-04-24",
-      "is_open_access": true,
-      "doi": "https://doi.org/10.1088/1361-6382/add078"
     },
     {
       "title": "Cornell and Coulomb potentials in the double defect spacetime",
@@ -139,20 +139,20 @@
       "doi": "https://doi.org/10.1103/physrevd.111.064032"
     },
     {
+      "title": "Black hole solutions surrounded by anisotropic fluid in f(𝕋,𝒯) gravity",
+      "journal": "International Journal of Modern Physics D",
+      "year": 2025,
+      "publication_date": "2025-01-09",
+      "is_open_access": true,
+      "doi": "https://doi.org/10.1142/s0218271824500718"
+    },
+    {
       "title": "Regular black holes from Kiselev anisotropic fluid",
       "journal": "The European Physical Journal C",
       "year": 2024,
       "publication_date": "2024-12-26",
       "is_open_access": true,
       "doi": "https://doi.org/10.1140/epjc/s10052-024-13664-y"
-    },
-    {
-      "title": "Black hole solutions surrounded by anisotropic fluid in f(𝕋,𝒯) gravity",
-      "journal": "International Journal of Modern Physics D",
-      "year": 2024,
-      "publication_date": "2024-11-15",
-      "is_open_access": true,
-      "doi": "https://doi.org/10.1142/s0218271824500718"
     },
     {
       "title": "Bayesian study of quark models in view of recent astrophysical constraints",
@@ -206,7 +206,7 @@
       "title": "Non-inertial effects on a non-relativistic quantum harmonic oscillator in the presence of a screw dislocation",
       "journal": "International Journal of Geometric Methods in Modern Physics",
       "year": 2022,
-      "publication_date": "2022-11-09",
+      "publication_date": "2022-12-08",
       "is_open_access": true,
       "doi": "https://doi.org/10.1142/s0219887823500676"
     },
@@ -222,15 +222,15 @@
       "title": "Anisotropic compact stars in Rastall–Rainbow gravity",
       "journal": "Classical and Quantum Gravity",
       "year": 2022,
-      "publication_date": "2022-03-02",
+      "publication_date": "2022-03-24",
       "is_open_access": true,
       "doi": "https://doi.org/10.1088/1361-6382/ac5a13"
     },
     {
       "title": "Generalized Rastall’s gravity and its effects on compact objects",
       "journal": "International Journal of Modern Physics D",
-      "year": 2021,
-      "publication_date": "2021-12-20",
+      "year": 2022,
+      "publication_date": "2022-02-11",
       "is_open_access": true,
       "doi": "https://doi.org/10.1142/s0218271822500237"
     },
@@ -254,7 +254,7 @@
       "title": "Rapidly rotating compact stars in Rastall’s gravity",
       "journal": "Classical and Quantum Gravity",
       "year": 2021,
-      "publication_date": "2021-07-08",
+      "publication_date": "2021-07-23",
       "is_open_access": true,
       "doi": "https://doi.org/10.1088/1361-6382/ac129d"
     },
@@ -299,20 +299,20 @@
       "doi": "https://doi.org/10.1007/s10714-019-2633-z"
     },
     {
+      "title": "Fermions in the Rindler spacetime",
+      "journal": "International Journal of Geometric Methods in Modern Physics",
+      "year": 2019,
+      "publication_date": "2019-09-01",
+      "is_open_access": true,
+      "doi": "https://doi.org/10.1142/s0219887819501408"
+    },
+    {
       "title": "Combined Rastall and rainbow theories of gravity with applications to neutron stars",
       "journal": "Physical Review D",
       "year": 2019,
       "publication_date": "2019-07-22",
       "is_open_access": true,
       "doi": "https://doi.org/10.1103/physrevd.100.024043"
-    },
-    {
-      "title": "Fermions in the Rindler spacetime",
-      "journal": "International Journal of Geometric Methods in Modern Physics",
-      "year": 2019,
-      "publication_date": "2019-07-05",
-      "is_open_access": true,
-      "doi": "https://doi.org/10.1142/s0219887819501408"
     },
     {
       "title": "Klein–Gordon Oscillator in a Topologically Nontrivial Space-Time",
