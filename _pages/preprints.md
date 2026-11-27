@@ -565,25 +565,6 @@ author_profile: true
             </div>
             
             <div>
-                <h3>Chaotic singularities inside vacuum black holes</h3>
-                <div>
-                    <p><i>Robie A. Hennigar, Ayan K. Patra</i></p>
-                    <p><b>Published: 2026-11-24</b></p>
-                </div>
-                <div>
-            <p>Categories: hep-th</p>
-                </div>
-                <div>
-                    <p>According to the conjecture of Belinski, Khalatnikov and Lifshitz, general relativity gives rise to chaotic dynamics in the vicinity of generic spacelike singularities. However, no vacuum black hole has been shown to exhibit this behaviour. Here we construct stationary, asymptotically locally AdS$_5$ black holes with regular, triaxially squashed horizons and causal exteriors, whose homogeneous interiors realize the cosmological billiard of generic five-dimensional vacuum gravity. We identify a simple algebraic condition on the horizon data that is necessary for the interior billiard to be chaotic, and show that solutions with regular horizons locally access an open set of billiard trajectories.</p>
-                </div>
-                <div>
-                    <a href="https://arxiv.org/abs/2611.33287v1" target="_blank">View on arXiv</a>
-                    <a href="https://arxiv.org/pdf/2611.33287v1" target="_blank">PDF</a>
-                </div>
-                <hr>
-            </div>
-            
-            <div>
                 <h3>Bounds on Love Numbers and Quasinormal Modes from the Surface Impedance</h3>
                 <div>
                     <p><i>Daniel McLoughlin, Mikhail P. Solon</i></p>
@@ -598,6 +579,25 @@ author_profile: true
                 <div>
                     <a href="https://arxiv.org/abs/2611.33285v1" target="_blank">View on arXiv</a>
                     <a href="https://arxiv.org/pdf/2611.33285v1" target="_blank">PDF</a>
+                </div>
+                <hr>
+            </div>
+            
+            <div>
+                <h3>Chaotic singularities inside vacuum black holes</h3>
+                <div>
+                    <p><i>Robie A. Hennigar, Ayan K. Patra</i></p>
+                    <p><b>Published: 2026-11-24</b></p>
+                </div>
+                <div>
+            <p>Categories: hep-th</p>
+                </div>
+                <div>
+                    <p>According to the conjecture of Belinski, Khalatnikov and Lifshitz, general relativity gives rise to chaotic dynamics in the vicinity of generic spacelike singularities. However, no vacuum black hole has been shown to exhibit this behaviour. Here we construct stationary, asymptotically locally AdS$_5$ black holes with regular, triaxially squashed horizons and causal exteriors, whose homogeneous interiors realize the cosmological billiard of generic five-dimensional vacuum gravity. We identify a simple algebraic condition on the horizon data that is necessary for the interior billiard to be chaotic, and show that solutions with regular horizons locally access an open set of billiard trajectories.</p>
+                </div>
+                <div>
+                    <a href="https://arxiv.org/abs/2611.33287v1" target="_blank">View on arXiv</a>
+                    <a href="https://arxiv.org/pdf/2611.33287v1" target="_blank">PDF</a>
                 </div>
                 <hr>
             </div>
